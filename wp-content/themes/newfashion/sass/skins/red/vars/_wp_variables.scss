@@ -1,0 +1,32 @@
+//Bootstrap
+//-------------------------
+$brand-success                      : #EE450A;
+$font-family-base                   : "Raleway", sans-serif;
+$btn-success-bg                     : $brand-success;
+$btn-success-border                 : $brand-success;
+$label-success-bg                   : $brand-success;
+$progress-bar-success-bg            : $brand-success;
+$link-hover-color                   : $brand-success;
+$headings-font-weight               : 900;
+//Themes 
+//--------------------------
+$theme-color                        : #EE450A;
+$theme-color-rgba                   : rgba(238, 69, 10, 0.8);
+$image-theme-path                   : '../../../images/';
+$image-theme-skin                   : '../../../images/skins/red/';
+$woo-font-path                      : '../../../fonts/woocommerce/';
+$theme-font-path                 	: '../../../fonts/';
+
+//Font
+//--------------------------
+$font-family-second                 : "Raleway";  
+$font-slide-primary                 : "Raleway";
+$font-family-third                  : 'Raleway';
+   
+//Footer
+$footer-heading-transform           : none;
+$footer-heading-font-size           : 18px;
+$footer-heading-color               : #fff;   
+$footer-bg                          : #1D1D29;
+$copyright-bg                       : #161620;
+$footer-color                       : #777777;

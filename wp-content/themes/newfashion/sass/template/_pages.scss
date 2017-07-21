@@ -1,0 +1,222 @@
+body{
+   #wpo-content{
+      margin-bottom: 30px;
+   }
+   .container-fuild{
+      #wpo-content{
+         margin-bottom: 0;
+      }
+   }
+}
+.page{
+   .page-title{
+      font-size: 24px;
+      text-transform: uppercase;
+      position: relative;
+      padding-bottom: 20px;
+      margin-bottom: 15px;
+      &:before{
+         content: "";
+         @include size(30px, 2px);
+         background: $theme-color;
+         position: absolute;
+         bottom: 0;
+         left: 0;
+         z-index: 1;
+      }
+   }
+}
+.notfound-page{
+   background: url(#{$image-theme-path}bg-404.jpg) top center no-repeat $nocolor;
+   .title{
+      font-size: 200px;
+      color: #fff;
+      font-weight: 700;
+      line-height: 1em;
+      display: block;
+	  letter-spacing: 0.2em;
+      .sub{
+			line-height: 1em ;
+			font-size: 60px;
+			font-weight: 400;
+			color: $white;
+			padding: 0;
+			margin: 0 0 30px;
+			display: block;
+			position: relative;
+			text-transform: uppercase;
+			letter-spacing: 0.2em;
+      }
+   }
+   .error-description{
+      color: $white;
+      padding: 0 20%;
+      font-size: 20px;
+      @media(max-width: $screen-sm-max){
+         padding: 0 10px;
+      }
+   }
+   .page-action{
+      margin-top: 50px;
+
+      a{
+         margin: 0 10px 10px;
+      }
+   }
+}
+
+.single{
+   .post-share{
+      padding: 20px 0;
+      text-transform: uppercase;
+      .wpo-social-share{
+         float: right;
+      }
+   }
+   .wpo-post-next{
+      margin-bottom: 35px;
+      float: right;
+      display: inline-block;
+      .btn{
+         margin-right: 10px;
+         &:last-child{
+            margin-right: 0;
+         }
+         a{
+            color: $white;
+         }
+         &:hover a{
+            color: $theme-color;
+         }
+      }
+   }
+   #comments{
+      .title{
+         text-transform: uppercase;
+         font-size: 14px;
+         font-weight: 700;
+         position: relative;
+         padding-bottom: 15px;
+         margin-bottom: 20px;
+
+      }
+      ul li, ol li{
+         list-style: none;
+      }
+      input{
+         height: 42px;
+      }
+
+   }
+}
+
+.single-portfolio {
+   .entry-title{
+      margin: 10px 0 25px;
+      .title-post{
+         text-transform: uppercase;
+         margin: 0 0 15px;
+      }
+   }
+   .created{
+      color: #bbbbbb;
+      font-size: 10px;
+      font-weight: 400;
+      text-transform: uppercase;
+   }
+   .single-body{
+      margin-top: 50px;
+   }
+   .list-gallery{
+      .row{
+         margin-bottom: 28px;
+      }
+   }
+   .format-video .content-video{
+      background: #FAFAFA;
+   }
+   .format-infomation .single-body{
+      margin-top: 0;
+      .portfolio-info{
+         margin-bottom: 30px;
+         > div{
+            padding: 10px 0;
+            border-top: 1px solid #F1F1F1;
+            &:last-child{
+               border-bottom: 1px solid #F1F1F1;
+            }
+            > span{
+               font-size: 16px;
+               font-weight: 300;
+               &:first-child{
+                  width: 90px;
+                  display: inline-block;
+                  color: #777777;
+               }
+               &:last-child{
+                  color: $black;
+               }
+            }
+         }
+         a:hover{
+            color: $theme-color;
+         }
+      }
+   }
+}
+
+.page-comingsoon{
+   background: url(#{$image-theme-path}bg-coming-soon.jpg) no-repeat $nocolor;
+   padding: 30px 0;
+}
+
+/* Login popup */
+#modalLoginForm{
+	background: rgba(0, 0, 0, .3);
+
+	.modal-body{
+		padding: 35px 30px 30px;
+	}
+	.modal-content{
+		@include box-shadow(none);
+		border: none;
+	}
+
+	#wpologinform, #wpolostpasswordform{
+		margin: 0 auto;
+		max-width: 350px;
+
+		.form-control{
+			width: 100%;
+		}
+	}
+
+	#wpologinform{
+		border-bottom: 3px solid #e5e5e5;
+		padding: 0 0 15px;
+		margin-bottom: 35px;
+	}
+
+	.account-login{
+		margin-bottom: 20px;
+	}
+
+	.btn:hover, .btn:focus, .btn.focus{
+		color: #999;
+	}
+
+}
+.st-pusher:after{
+	z-index: 99;
+}
+
+
+.wishlist_table .add_to_cart.button, .yith-wcwl-add-button a.add_to_wishlist, .yith-wcwl-popup-button a.add_to_wishlist, .wishlist_table a.ask-an-estimate-button, .wishlist-title a.show-title-form, .hidden-title-form a.hide-title-form, .woocommerce .yith-wcwl-wishlist-new button, .wishlist_manage_table a.create-new-wishlist, .wishlist_manage_table button.submit-wishlist-changes, .yith-wcwl-wishlist-search-form button.wishlist-search-button
+{
+    @include border-radius(0);
+
+}
+.woocommerce table.wishlist_table{
+    font-size: 100%;
+
+}

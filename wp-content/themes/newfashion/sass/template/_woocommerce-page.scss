@@ -1,0 +1,46 @@
+/**
+ * Shopping Cart Page
+ */
+
+table.cart{
+    img{
+        width: 80px; 
+    }
+} 
+
+/* Checkout page  */
+.woocommerce-info{
+	padding: 8px 20px;
+	margin-bottom: 10px;
+	border: 1px solid $border-color;	
+	a{
+		color:$theme-color;
+	}
+}
+.order-review{
+	background: #f8f8f8;
+    color: #000;
+    margin-top: 10px;
+    padding: 20px;
+	#order_review_heading{
+		padding: 0 10px;
+	}
+}
+.woocommerce-checkout-payment{
+	padding: 20px 12px;
+	
+}
+.payment_methods{
+	font-size:$font-size-small;
+	input{
+		padding-top:4px;
+		@include rtl-float-left();
+	}
+	label{
+		font-weight: normal;
+
+		a, img{
+			display: block;
+		}
+	}
+}

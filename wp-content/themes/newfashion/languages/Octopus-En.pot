@@ -1,0 +1,4195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/octopus/inc/core/widgets/menu_vertical.php:41
+#: src/octopus/inc/core/widgets/posts.php:23
+#: src/octopus/inc/vc/elements.php:296 src/octopus/inc/vc/elements.php:304
+#: src/octopus/inc/vc/theme.php:1087
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Present-project 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-26 14:36+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:5
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:14
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:10
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:16
+msgid "Hello World"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:17
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:6
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:11
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:7
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:12
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:17
+msgid "Post"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:20
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:3
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:8
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:15
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:21
+#, php-format
+msgid "%d apple"
+msgstr ""
+
+#: node_modules/grunt-checktextdomain/test/expected/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/expected/variable-domain-autocorrect.php:22
+#: node_modules/grunt-checktextdomain/test/fixtures/correct-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain-autocorrect.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/incorrect-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/missing-domain.php:21
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:4
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:9
+#: node_modules/grunt-checktextdomain/test/fixtures/plurals.php:16
+#: node_modules/grunt-checktextdomain/test/fixtures/variable-domain-autocorrect.php:22
+#, php-format
+msgid "%d post"
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-file.php:3
+msgid "I'm a translatable string."
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:4
+msgid "Me too"
+msgstr ""
+
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:7
+#, php-format
+msgid "I have %d apple"
+msgid_plural "I have %d apples"
+msgstr[0] ""
+msgstr[1] ""
+
+#. / TRANSLATORS: This should be translated as a shorthand for YEAR-MONTH-DAY using 4, 2 and 2 digits.
+#: node_modules/grunt-pot/test/fixtures/some-other-file.php:16
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#. /GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+#. *
+#. * @website  http:/wpopal.com
+#. * @support  http://wpopal.com
+#.
+#. 
+#. *Template Name: 404 Page
+#.
+#: src/octopus/404.php:30
+msgid "Page not found"
+msgstr ""
+
+#: src/octopus/404.php:32
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it and we'll try to fix "
+"it. In the meantime, try one of these options."
+msgstr ""
+
+#: src/octopus/404.php:34
+msgid "Go back to previous page"
+msgstr ""
+
+#: src/octopus/404.php:35
+msgid "Return to homepage"
+msgstr ""
+
+#: src/octopus/comments.php:21
+msgid "0 Comment"
+msgstr ""
+
+#: src/octopus/comments.php:21 src/octopus/single.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: src/octopus/comments.php:21 src/octopus/single.php:50
+msgid "% Comments"
+msgstr ""
+
+#: src/octopus/comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: src/octopus/comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: src/octopus/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: src/octopus/comments.php:48
+msgid "Send a Comment"
+msgstr ""
+
+#: src/octopus/comments.php:48
+msgid "<h4 class=\"title\">"
+msgstr ""
+
+#: src/octopus/comments.php:50
+msgid "Your Message"
+msgstr ""
+
+#: src/octopus/comments.php:56
+msgid "Your Name *"
+msgstr ""
+
+#: src/octopus/comments.php:59
+msgid "Email *"
+msgstr ""
+
+#: src/octopus/comments.php:62
+#: src/octopus/inc/core/widgets/contact-info.php:31
+msgid "Website"
+msgstr ""
+
+#: src/octopus/comments.php:65
+msgid "Send"
+msgstr ""
+
+#: src/octopus/comments.php:66
+msgid "Your email address will not be published."
+msgstr ""
+
+#: src/octopus/inc/backend.php:122
+msgid "Post Configuration"
+msgstr ""
+
+#: src/octopus/inc/backend.php:131
+msgid "Brands Configuration"
+msgstr ""
+
+#: src/octopus/inc/backend.php:142
+msgid "Page Configuration"
+msgstr ""
+
+#: src/octopus/inc/backend.php:151
+msgid "Portfolio Options"
+msgstr ""
+
+#: src/octopus/inc/backend.php:160
+msgid "Event Options"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2404
+msgid "Enable"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2456
+msgid "Gallery image: "
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2459
+msgid "Add Media"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2508
+#: src/octopus/inc/customizer/customizer-custom-classes.php:86
+msgid "Fullwidth"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2509
+#: src/octopus/inc/customizer/portfolio.php:54
+#: src/octopus/inc/frontend.php:484
+#: src/octopus/inc/metabox_templates/page.php:44
+#: src/octopus/inc/metabox_templates/portfolio.php:45
+msgid "Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2510
+#: src/octopus/inc/frontend.php:494
+#: src/octopus/inc/metabox_templates/portfolio.php:52
+msgid "Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2511
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2537
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: src/octopus/inc/core/classes/metabox.php:2538
+msgid "Use this image"
+msgstr ""
+
+#: src/octopus/inc/core/classes/navwalker.php:140
+msgid "New"
+msgstr ""
+
+#: src/octopus/inc/core/classes/navwalker.php:144
+msgid "Hot"
+msgstr ""
+
+#: src/octopus/inc/core/classes/navwalker.php:148
+#: src/octopus/inc/vc/class/all_products.php:20
+msgid "Featured"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:177
+#: src/octopus/inc/core/classes/plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:178
+#: src/octopus/inc/core/classes/plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:532
+#: src/octopus/inc/core/classes/plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1167
+#: src/octopus/inc/core/classes/plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1170
+#: src/octopus/inc/core/classes/plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1288
+#: src/octopus/inc/core/classes/plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1312
+#: src/octopus/inc/core/classes/plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1390
+#: src/octopus/inc/vc/woocommerce.php:234
+msgid "Type"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1391
+#: src/octopus/tribe-events/community/event-list.php:72
+msgid "Status"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2070
+#: src/octopus/inc/core/classes/plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2070
+#: src/octopus/inc/core/classes/plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: src/octopus/inc/core/classes/plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/octopus/inc/core/functions/functions.php:101
+msgid " seconds ago"
+msgstr ""
+
+#: src/octopus/inc/core/functions/functions.php:107
+msgid " minutes ago"
+msgstr ""
+
+#: src/octopus/inc/core/functions/functions.php:113
+msgid " hours ago"
+msgstr ""
+
+#: src/octopus/inc/core/functions/functions.php:120
+msgid " days ago"
+msgstr ""
+
+#: src/octopus/inc/core/functions/functions.php:123
+msgid " weeks ago"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:15
+#: src/octopus/inc/vc/elements.php:226 src/octopus/inc/vc/elements.php:370
+#: src/octopus/inc/vc/elements.php:471 src/octopus/inc/vc/elements.php:547
+#: src/octopus/inc/vc/elements.php:656 src/octopus/inc/vc/event.php:16
+#: src/octopus/inc/vc/event.php:110 src/octopus/inc/vc/event.php:204
+#: src/octopus/inc/vc/event.php:276 src/octopus/inc/vc/theme.php:18
+#: src/octopus/inc/vc/theme.php:64 src/octopus/inc/vc/theme.php:168
+#: src/octopus/inc/vc/theme.php:238 src/octopus/inc/vc/theme.php:335
+#: src/octopus/inc/vc/theme.php:437 src/octopus/inc/vc/theme.php:563
+#: src/octopus/inc/vc/theme.php:626 src/octopus/inc/vc/theme.php:828
+#: src/octopus/inc/vc/theme.php:895 src/octopus/inc/vc/theme.php:957
+#: src/octopus/inc/vc/theme.php:1085 src/octopus/inc/vc/woocommerce.php:25
+#: src/octopus/inc/vc/woocommerce.php:86
+#: src/octopus/inc/vc/woocommerce.php:206
+#: src/octopus/inc/vc/woocommerce.php:281
+#: src/octopus/inc/vc/woocommerce.php:355
+#: src/octopus/tribe-events/community/event-list.php:73
+msgid "Title"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:16
+#: src/octopus/inc/vc/elements.php:155 src/octopus/inc/vc/elements.php:340
+#: src/octopus/inc/vc/elements.php:478 src/octopus/inc/vc/news.php:925
+#: src/octopus/inc/vc/theme.php:103 src/octopus/inc/vc/theme.php:188
+#: src/octopus/inc/vc/theme.php:598 src/octopus/inc/vc/theme.php:1099
+msgid "Description"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:17
+msgid "Company"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:18
+msgid "Country"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:19
+msgid "Locality"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:20
+msgid "Region"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:21
+msgid "Street"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:22
+msgid "Working Days"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:23
+msgid "Working Hours"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:24
+#: src/octopus/inc/vc/theme.php:364 src/octopus/inc/vc/theme.php:451
+msgid "Phone"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:25
+msgid "Mobile"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:26
+msgid "Fax"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:27
+msgid "Skype"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:28
+msgid "Email Address"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:29
+#: src/octopus/inc/vc/theme.php:472
+#: src/octopus/woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:30
+msgid "Website URL"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:34
+msgid "Add contact information."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:38
+msgid "WPO: Contact Info"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/contact-info.php:120
+msgid "Contact Info"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/facebook_like.php:21
+#: src/octopus/inc/vc/theme.php:723
+msgid "WPO Facebook Like Box"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/facebook_like.php:23
+msgid "Adds support for Facebook Like Box. "
+msgstr ""
+
+#: src/octopus/inc/core/widgets/featured_post.php:23
+msgid "WPO Featured Post Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/featured_post.php:66
+#: src/octopus/inc/core/widgets/recent_post.php:60
+msgid "Type:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/featured_post.php:78
+#: src/octopus/inc/core/widgets/top_rate.php:122
+#: src/octopus/inc/core/widgets/twitter.php:138
+msgid "Limit:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/flickr.php:21
+msgid "WPO Flickr"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/flickr.php:23
+msgid "The most recent photos from flickr."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/menu_vertical.php:21
+msgid "WPO Menu Vertical Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/menu_vertical.php:23
+msgid "Show Menu Vertical"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/menu_vertical.php:57
+#: src/octopus/inc/core/widgets/posts.php:50
+#: src/octopus/inc/core/widgets/recent_comment.php:52
+#: src/octopus/inc/core/widgets/recent_post.php:46
+#: src/octopus/inc/core/widgets/social_counter.php:275
+#: src/octopus/inc/core/widgets/twitter.php:130
+#: src/octopus/inc/core/widgets/video.php:52
+msgid "Title:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/posts.php:21
+msgid "WPO Posts Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/posts.php:64
+msgid "Posts:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_comment.php:21
+msgid "WPO Recent Comments Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_comment.php:23
+msgid "Show list of recent comments"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_comment.php:41
+msgid "Latest Post"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_comment.php:65
+msgid "Num Comments:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_post.php:21
+msgid "WPO Recent Posts Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_post.php:23
+msgid "Show list of recent post"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/recent_post.php:72
+msgid "Num Posts:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/sliders.php:20
+msgid "Description "
+msgstr ""
+
+#: src/octopus/inc/core/widgets/sliders.php:22
+msgid "WPO Sliders Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:44
+msgid "[Sidebar widget] Displays social counters in sidebar."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:47
+msgid "*BK: Widget Social Counters"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:172
+#: src/octopus/inc/core/widgets/social_counter.php:196
+msgid "Followers"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:184
+msgid "Likes"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:208
+#: src/octopus/inc/core/widgets/social_counter.php:219
+msgid "Subscribe"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:220
+msgid "RSS Feeds"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:280
+msgid "Facebook Username:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:285
+msgid "Dribbble Username"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:290
+msgid "Youtube username"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:295
+msgid "RSS URL"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:300
+msgid "Twitter Name"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:305
+msgid "Consumer key"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:310
+msgid "Consumer secret"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:315
+msgid "Access token"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/social_counter.php:320
+msgid "Access token secret"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/socials.php:21
+msgid "WPO Socials"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/socials.php:23
+msgid "Socials for website."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/socials_siderbar.php:21
+msgid "WPO Socials Siderbar"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/socials_siderbar.php:23
+msgid "Share Socials Siderbar for website."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/socials_siderbar.php:96
+msgid "Share services social:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/tabs.php:21
+msgid "WPO Tabs Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/tabs.php:23
+msgid "Popular posts, recent post and comments."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:23
+msgid "WPO Top Rate Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:25
+msgid "The highest rated posts on your site"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:35
+#: src/octopus/inc/vc/class/all_products.php:22
+msgid "Top Rated"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:85
+msgid "Get most rated:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:94
+msgid "Sort by:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:96
+msgid "Overall bayesian rating (score)"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:97
+msgid "Average rating"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:98
+msgid "Number of votes"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:105
+msgid "Descending"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:110
+msgid "Ascending"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:115
+msgid "Ignore posts older than:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:116
+msgid "days"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/top_rate.php:118
+msgid "(0 to ignore date)"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:19
+msgid "Latest Twitter widget "
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:23
+msgid "WPO Twitter Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:105
+msgid "Latest tweets."
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:106
+msgid "Leotheme"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:125
+#: src/octopus/inc/vc/theme.php:114 src/octopus/inc/vc/theme.php:275
+#: src/octopus/inc/vc/theme.php:870 src/octopus/inc/vc/theme.php:937
+#: src/octopus/tribe-events/community/event-list.php:157
+msgid "Yes"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:126
+#: src/octopus/inc/vc/elements.php:164 src/octopus/inc/vc/theme.php:113
+#: src/octopus/inc/vc/theme.php:275 src/octopus/inc/vc/theme.php:870
+#: src/octopus/inc/vc/theme.php:937
+#: src/octopus/tribe-events/community/event-list.php:159
+msgid "No"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:134
+msgid "Twitter Username:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:142
+msgid "Twitter Id:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:146
+msgid "Border Color:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:151
+msgid "Link Color:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:156
+msgid "Text Color:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:161
+msgid "Name Color:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:166
+msgid "Mail Color:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:171
+msgid "Show background"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:180
+msgid "Show Replies"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:189
+msgid "Show Header"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:198
+msgid "Show Footer"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:207
+msgid "Show Border"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/twitter.php:216
+msgid "Show Scrollbar"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:20
+msgid "WPO Featured Video Widget"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:22
+msgid "Show Featured video"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:58
+msgid "Video link:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:62
+msgid ""
+"Support video from Youtube and Vimeo link. Ex: https://www.youtube.com/watch?"
+"v=Drei_jt2kos"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:66
+msgid "Video name:"
+msgstr ""
+
+#: src/octopus/inc/core/widgets/video.php:72
+msgid "Video width:"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:9
+msgid "Blog"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:10
+#: src/octopus/inc/customizer/event.php:11
+#: src/octopus/inc/customizer/portfolio.php:10
+#: src/octopus/inc/customizer/woocommerce.php:14
+msgid "Make default setting for page, general"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:21
+#: src/octopus/inc/customizer/event.php:21
+msgid "Layout Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:36
+#: src/octopus/inc/customizer/event.php:35
+#: src/octopus/inc/customizer/woocommerce.php:135
+msgid "Archive Layout"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:55
+#: src/octopus/inc/customizer/event.php:51
+#: src/octopus/inc/customizer/woocommerce.php:152
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:70
+#: src/octopus/inc/customizer/event.php:66
+#: src/octopus/inc/customizer/portfolio.php:69
+#: src/octopus/inc/customizer/woocommerce.php:168
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:85
+#: src/octopus/inc/customizer/event.php:81
+msgid "Single Blog Layout"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:99
+msgid "Single blog Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:112
+msgid "Single blog Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:124
+#: src/octopus/inc/customizer/woocommerce.php:24
+msgid "General Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:140
+#: src/octopus/inc/customizer/portfolio.php:85
+msgid "Show title"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:156
+#: src/octopus/inc/customizer/portfolio.php:101
+msgid "Show breadcrumb"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:169
+#: src/octopus/inc/customizer/event.php:119
+msgid "Archive Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:186
+#: src/octopus/inc/customizer/portfolio.php:148
+msgid "Archive style"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:200
+#: src/octopus/inc/customizer/event.php:132
+msgid "Select column"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:204
+#: src/octopus/inc/customizer/event.php:136
+msgid "2 column"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:205
+#: src/octopus/inc/customizer/event.php:137
+msgid "3 column"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:206
+#: src/octopus/inc/customizer/event.php:138
+msgid "4 column"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:207
+msgid "6 column"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:219
+msgid "Single post Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:235
+msgid "Show share post"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:251
+msgid "Show related post"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:266
+#: src/octopus/inc/customizer/portfolio.php:127
+msgid "Number Of post to show"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:270
+#: src/octopus/inc/customizer/portfolio.php:131
+msgid "2 posts"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:271
+#: src/octopus/inc/customizer/portfolio.php:132
+msgid "3 posts"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:272
+#: src/octopus/inc/customizer/portfolio.php:133
+msgid "4 posts"
+msgstr ""
+
+#: src/octopus/inc/customizer/blog.php:273
+msgid "6 posts"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:42
+msgid ""
+"Click Live Customizing Theme to create custom-theme-profiles and they will "
+"be listed in above dropdown box. You select one profile theme to apply for "
+"your site\n"
+"!important: All theme profiles are stored in folder YOURTHEME/css/customze, "
+"it need permission 0755 to put files inside"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:44
+msgid "Create Profile Now"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:87
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:88
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:89
+msgid "Left - Main - Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:99
+msgid "Layout Main Content Column Only"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:100
+msgid "Layout Left  + Main Content Column"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:101
+msgid "Layout Main Content and Right Column"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:102
+msgid "Layout Left  + Main Content and Right Column"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:135
+msgid "Select"
+msgstr ""
+
+#: src/octopus/inc/customizer/customizer-custom-classes.php:164
+#: src/octopus/inc/customizer/function.php:21
+#: src/octopus/inc/customizer/function.php:99
+#: src/octopus/inc/metabox_templates/page.php:61
+#: src/octopus/inc/metabox_templates/portfolio.php:65
+#: src/octopus/inc/vc/elements.php:25 src/octopus/inc/vc/elements.php:52
+#: src/octopus/inc/vc/elements.php:136 src/octopus/inc/vc/elements.php:390
+#: src/octopus/inc/vc/elements.php:513 src/octopus/inc/vc/elements.php:606
+#: src/octopus/inc/vc/elements.php:716
+msgid "Default"
+msgstr ""
+
+#: src/octopus/inc/customizer/event.php:10
+msgid "Event"
+msgstr ""
+
+#: src/octopus/inc/customizer/event.php:95
+msgid "Single Event Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/event.php:108
+msgid "Single event Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/function.php:35
+msgid "No Use"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:9
+msgid "Portfolio"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:21
+msgid "Portfolio Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:36
+#: src/octopus/inc/vc/event.php:239 src/octopus/inc/vc/news.php:943
+#: src/octopus/inc/vc/news.php:1035 src/octopus/inc/vc/woocommerce.php:45
+msgid "Layout"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:114
+msgid "Portfolio Archive"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:161
+msgid "Portfolio Single"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:176
+msgid "Show share portfolio"
+msgstr ""
+
+#: src/octopus/inc/customizer/portfolio.php:192
+msgid "Show related portfolio"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:10
+msgid "General Settings"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:11
+msgid "Website General Settings"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:26
+msgid "Site Title"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:41
+msgid "Tagline"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:55
+msgid "Favicon"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:72
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:90
+msgid "Logo"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:107
+msgid "Payment Logo"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:122
+msgid "Enable Preloader"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:140
+msgid "Preloader Logo"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:155
+msgid "Copyright text"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:177
+msgid "Themes And Layouts Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:190
+msgid "Default Theme"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:204
+msgid "Header Layout Style"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:220
+msgid "Footer Styles Builder"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:235
+msgid "Custom Theme Profile"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:248
+msgid "Social Share setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:253
+msgid "Share facebook "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:255
+msgid "Share twitter "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:257
+msgid "Share linkedin "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:259
+msgid "Share tumblr "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:261
+msgid "Share google plus "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:263
+msgid "Share pinterest "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:265
+msgid "Share mail "
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:281
+msgid "Vertical Megamenu"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:298
+msgid "Sticky Top Bar"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:312
+msgid "Megamenu Animation"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:326
+msgid "Megamenu Duration"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:337
+msgid "Front Page Settings"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:339
+#: src/octopus/inc/customizer/theme.php:411
+msgid "Your theme supports a static front page."
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:369
+msgid "Front page displays"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:373
+msgid "Your latest posts"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:374
+msgid "A static page"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:385
+msgid "Front page"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:398
+msgid "Posts page"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:409
+msgid "Pages Settings"
+msgstr ""
+
+#: src/octopus/inc/customizer/theme.php:424
+msgid "404 Page"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:13
+msgid "Woocommerce"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:40
+msgid "Enable Mini Basket"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:56
+msgid "Enable QuickView"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:74
+msgid "Enable Swap Image"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:90
+msgid "Enable Adding Cart Notification"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:104
+msgid "Text add cart success"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:119
+msgid "Archive Page Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:182
+msgid "List Grid"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:186
+#: src/octopus/inc/vc/news.php:796
+#: src/octopus/inc/woocommerce/woocommerce.php:117
+msgid "List"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:187
+#: src/octopus/inc/vc/news.php:795 src/octopus/inc/vc/woocommerce.php:47
+#: src/octopus/inc/woocommerce/woocommerce.php:122
+msgid "Grid"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:201
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:215
+msgid "Number of Products Per Row"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:219
+#: src/octopus/inc/customizer/woocommerce.php:333
+msgid "2 Items"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:220
+#: src/octopus/inc/customizer/woocommerce.php:334
+msgid "3 Items"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:221
+#: src/octopus/inc/customizer/woocommerce.php:335
+msgid "4 Items"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:222
+msgid "6 Items"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:235
+msgid "Single Product Page Setting"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:250
+msgid "Product Detail Layout"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:266
+msgid "Product Detail Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:281
+msgid "Product Detail Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:297
+msgid "Disable show related product"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:313
+msgid "Disable show upsells product"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:329
+msgid "Number of Product Per Row"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:349
+msgid "Number of Products to Show"
+msgstr ""
+
+#: src/octopus/inc/customizer/woocommerce.php:365
+msgid "Show Social share product"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:432
+msgid "Sidebar Default"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:434 src/octopus/inc/frontend.php:454
+#: src/octopus/inc/frontend.php:475 src/octopus/inc/frontend.php:486
+#: src/octopus/inc/frontend.php:496 src/octopus/inc/frontend.php:507
+#: src/octopus/inc/frontend.php:518 src/octopus/inc/frontend.php:528
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: src/octopus/inc/frontend.php:442
+msgid "Sidebar Intro Landingpage"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:444
+msgid ""
+"Appears on intro slider in the sidebar (use on header intro landingpage)."
+msgstr ""
+
+#: src/octopus/inc/frontend.php:452
+msgid "Newsletter"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:462 src/octopus/inc/vc/theme.php:386
+#: src/octopus/inc/vc/theme.php:487
+msgid "Twitter"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:464
+msgid "Appears on content in the sidebar."
+msgstr ""
+
+#: src/octopus/inc/frontend.php:473
+msgid "Social Header"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:505
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:516
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:526
+msgid "OffCanvas Sidebar Left"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:538
+msgid "Footer 1"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:540 src/octopus/inc/frontend.php:550
+#: src/octopus/inc/frontend.php:560 src/octopus/inc/frontend.php:570
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: src/octopus/inc/frontend.php:548
+msgid "Footer 2"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:558
+msgid "Footer 3"
+msgstr ""
+
+#: src/octopus/inc/frontend.php:568
+msgid "Footer 4"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:94
+msgid "Sticky"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:177
+#: src/octopus/templates/portfolio/portfolio.php:38
+#: src/octopus/vc_templates/wpo_portfolio.php:77
+msgid "All"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:279
+msgid "Enter search..."
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:282
+msgid "Search"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:304
+#: src/octopus/inc/functions/woocommerce.php:145
+msgid "Previous"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:304
+#: src/octopus/inc/functions/woocommerce.php:145
+msgid "Next"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:312
+#: src/octopus/inc/functions/woocommerce.php:154
+#: src/octopus/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:314
+#: src/octopus/inc/functions/woocommerce.php:156
+#: src/octopus/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:439
+msgid "Home"
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:476
+msgid "Search results for \""
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:525
+msgid "Posts tagged \""
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:530
+msgid "Articles posted by "
+msgstr ""
+
+#: src/octopus/inc/functions/theme.php:533
+msgid "Error 404"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:48
+#: src/octopus/inc/functions/visual_composer.php:57
+msgid "Parallax"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:60
+#: src/octopus/inc/functions/visual_composer.php:79
+#: src/octopus/inc/vc/woocommerce.php:364
+#: src/octopus/inc/vc/woocommerce.php:371
+#: src/octopus/inc/vc/woocommerce.php:378
+msgid "Yes, please"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:66
+#: src/octopus/inc/functions/visual_composer.php:76
+msgid "Is Boxed"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:69
+msgid "Yes, Boxed"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:70
+msgid "No, Wide"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:85
+#: src/octopus/inc/vc/elements.php:147 src/octopus/inc/vc/theme.php:212
+#: src/octopus/inc/vc/woocommerce.php:127
+msgid "Icon"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:88
+#: src/octopus/inc/vc/elements.php:428 src/octopus/inc/vc/elements.php:495
+#: src/octopus/inc/vc/theme.php:661
+msgid "This support display icon from FontAwsome, Please click"
+msgstr ""
+
+#: src/octopus/inc/functions/visual_composer.php:90
+#: src/octopus/inc/vc/elements.php:430 src/octopus/inc/vc/elements.php:497
+#: src/octopus/inc/vc/theme.php:663
+msgid "here to see the list"
+msgstr ""
+
+#: src/octopus/inc/functions/woocommerce.php:72
+#: src/octopus/inc/functions/woocommerce.php:76
+msgid "Wishlist"
+msgstr ""
+
+#: src/octopus/inc/functions/woocommerce.php:173
+msgid "My Account"
+msgstr ""
+
+#: src/octopus/inc/functions/woocommerce.php:179
+#: src/octopus/woocommerce/cart/mini-cart.php:79
+msgid "Checkout"
+msgstr ""
+
+#: src/octopus/inc/functions/woocommerce.php:185
+#: src/octopus/woocommerce/widgets/widget-cart.php:24
+msgid "Cart"
+msgstr ""
+
+#: src/octopus/inc/functions/woocommerce.php:302
+msgid "Out of stock"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:13
+msgid "Speaker Avata"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:20
+msgid "Add Speaker"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:20
+msgid "Delete Speaker Avata"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:20
+#: src/octopus/inc/metabox_templates/portfolio.php:91
+#: src/octopus/inc/metabox_templates/post.php:110
+msgid "Delete"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:20
+msgid " Add Speaker"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/event.php:34
+#: src/octopus/inc/metabox_templates/portfolio.php:91
+#: src/octopus/inc/metabox_templates/portfolio.php:106
+#: src/octopus/inc/metabox_templates/post.php:110
+#: src/octopus/inc/metabox_templates/post.php:125
+msgid "Delete image"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:36
+msgid "Page Layout"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:64
+msgid "2 Columns"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:67
+msgid "3 Columns"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:70
+msgid "4 Columns"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:76
+msgid "Set number of column bootstrap for each sidebar"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:95
+msgid "Whether to set fullwidth for the page"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:139
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:149
+msgid "Select background breadcrumb"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:156
+msgid "Background color breadcrumb"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:167
+msgid "Image breadcrumb"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/page.php:168
+msgid " Add image"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:28
+msgid "Enable config layout"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:35
+msgid "Select page layout"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:66
+msgid "Slideshow"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:67
+msgid "Video"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:68
+msgid "Gallery"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:69
+msgid "Infomation"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:70
+msgid "Fullscreen"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:74
+msgid "Portfolio format"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:84
+#: src/octopus/inc/metabox_templates/post.php:103
+msgid "Gallery image"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:91
+#: src/octopus/inc/metabox_templates/post.php:110
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:91
+#: src/octopus/inc/metabox_templates/post.php:110
+msgid "Add to gallery"
+msgstr ""
+
+#: src/octopus/inc/metabox_templates/portfolio.php:91
+#: src/octopus/inc/metabox_templates/post.php:110
+msgid " Add gallery"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:18
+#: src/octopus/inc/vc/woocommerce.php:70
+msgid "Latest Products"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:18
+msgid "Latest"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:20
+#: src/octopus/inc/vc/woocommerce.php:71
+msgid "Featured Products"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:22
+msgid "Top Rated Products"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:24
+#: src/octopus/inc/vc/woocommerce.php:72
+msgid "BestSeller Products"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:24
+msgid "BestSeller"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:26
+#: src/octopus/inc/vc/woocommerce.php:74
+msgid "Special Products"
+msgstr ""
+
+#: src/octopus/inc/vc/class/all_products.php:26
+msgid "Special"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:21 src/octopus/inc/vc/elements.php:712
+msgid "Button Style Color"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:26 src/octopus/inc/vc/elements.php:520
+#: src/octopus/inc/vc/elements.php:717
+msgid "Primary"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:27 src/octopus/inc/vc/elements.php:406
+#: src/octopus/inc/vc/elements.php:520 src/octopus/inc/vc/elements.php:718
+msgid "Danger"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:28 src/octopus/inc/vc/elements.php:404
+#: src/octopus/inc/vc/elements.php:719
+msgid "Success"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:29 src/octopus/inc/vc/elements.php:405
+#: src/octopus/inc/vc/elements.php:520 src/octopus/inc/vc/elements.php:720
+msgid "Info"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:30 src/octopus/inc/vc/elements.php:407
+#: src/octopus/inc/vc/elements.php:520 src/octopus/inc/vc/elements.php:721
+msgid "Warning"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:32 src/octopus/inc/vc/elements.php:723
+msgid "Outline Primary"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:33 src/octopus/inc/vc/elements.php:724
+msgid "Outline Danger"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:34 src/octopus/inc/vc/elements.php:725
+msgid "Outline Success"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:35 src/octopus/inc/vc/elements.php:726
+msgid "Outline Info"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:36 src/octopus/inc/vc/elements.php:727
+msgid "Outline Warning"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:38 src/octopus/inc/vc/elements.php:730
+msgid "Inverse Primary"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:39 src/octopus/inc/vc/elements.php:731
+msgid "Inverse Danger"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:40 src/octopus/inc/vc/elements.php:732
+msgid "Inverse Success"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:41 src/octopus/inc/vc/elements.php:733
+msgid "Inverse Info"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:42 src/octopus/inc/vc/elements.php:734
+msgid "Inverse  Warning"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:48 src/octopus/inc/vc/elements.php:320
+msgid "Heading Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:53 src/octopus/inc/vc/elements.php:77
+#: src/octopus/inc/vc/elements.php:323 src/octopus/inc/vc/elements.php:391
+msgid "Version 1"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:54 src/octopus/inc/vc/elements.php:78
+#: src/octopus/inc/vc/elements.php:324 src/octopus/inc/vc/elements.php:392
+msgid "Version 2"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:55 src/octopus/inc/vc/elements.php:79
+#: src/octopus/inc/vc/elements.php:325 src/octopus/inc/vc/elements.php:393
+msgid "Version 3"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:56 src/octopus/inc/vc/elements.php:326
+#: src/octopus/inc/vc/elements.php:394
+msgid "Version 4"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:57 src/octopus/inc/vc/elements.php:327
+#: src/octopus/inc/vc/elements.php:395
+msgid "Version 5"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:58 src/octopus/inc/vc/elements.php:328
+msgid "Version 6"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:59 src/octopus/inc/vc/elements.php:329
+msgid "Version 7"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:60 src/octopus/inc/vc/elements.php:330
+msgid "Version 8"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:61 src/octopus/inc/vc/elements.php:331
+msgid "Version 9"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:62 src/octopus/inc/vc/elements.php:332
+msgid "Version 10"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:63 src/octopus/inc/vc/elements.php:333
+msgid "Version 11"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:64 src/octopus/inc/vc/elements.php:334
+msgid "Version 12"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:65 src/octopus/inc/vc/elements.php:335
+msgid "Version 13"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:66
+msgid "Version 14"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:67
+msgid "Version 15"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:73
+msgid "CTA Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:80
+msgid "Version Light Style 1"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:81
+msgid "Version Light Style 2"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:82
+msgid "Version Light Style 4"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:89 src/octopus/inc/vc/elements.php:739
+msgid "Button Radius Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:93 src/octopus/inc/vc/elements.php:403
+#: src/octopus/inc/vc/elements.php:520 src/octopus/inc/vc/elements.php:743
+msgid "None"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:94 src/octopus/inc/vc/elements.php:744
+msgid "Radius 50%"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:95 src/octopus/inc/vc/elements.php:745
+msgid "Radius 1x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:96 src/octopus/inc/vc/elements.php:746
+msgid "Radius 2x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:97 src/octopus/inc/vc/elements.php:747
+msgid "Radius 3x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:98 src/octopus/inc/vc/elements.php:748
+msgid "Radius 4x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:99 src/octopus/inc/vc/elements.php:749
+msgid "Radius 5x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:100 src/octopus/inc/vc/elements.php:750
+msgid "Radius 6x"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:108 src/octopus/inc/vc/elements.php:132
+#: src/octopus/inc/vc/elements.php:387 src/octopus/inc/vc/elements.php:511
+#: src/octopus/inc/vc/theme.php:410 src/octopus/inc/vc/theme.php:503
+#: src/octopus/inc/vc/theme.php:702 src/octopus/inc/vc/theme.php:1112
+#: src/octopus/inc/vc/woocommerce.php:100
+#: src/octopus/inc/vc/woocommerce.php:242
+#: src/octopus/inc/vc/woocommerce.php:317
+msgid "Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:112 src/octopus/inc/vc/elements.php:137
+#: src/octopus/inc/vc/elements.php:607
+msgid "Style 1"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:113 src/octopus/inc/vc/elements.php:125
+#: src/octopus/inc/vc/elements.php:138
+msgid "Style 2"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:120 src/octopus/inc/vc/elements.php:263
+#: src/octopus/inc/vc/theme.php:279
+msgid "Skin"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:124 src/octopus/inc/vc/theme.php:281
+msgid "Skin 1"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:139
+msgid "Style 3"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:140
+msgid "Style 4"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:165
+msgid "Top to bottom"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:166
+msgid "Bottom to top"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:167
+msgid "Left to right"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:168
+msgid "Right to left"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:169
+msgid "Appear from center"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:204
+msgid "CSS Animation"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:208
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:218
+msgid "WPO Testimonials"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:220
+msgid "Play Testimonials In Carousel"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:222 src/octopus/inc/vc/elements.php:288
+#: src/octopus/inc/vc/elements.php:366 src/octopus/inc/vc/elements.php:467
+#: src/octopus/inc/vc/elements.php:543 src/octopus/inc/vc/elements.php:652
+#: src/octopus/inc/vc/event.php:12 src/octopus/inc/vc/event.php:106
+#: src/octopus/inc/vc/event.php:200 src/octopus/inc/vc/event.php:272
+#: src/octopus/inc/vc/theme.php:14 src/octopus/inc/vc/theme.php:60
+#: src/octopus/inc/vc/theme.php:164 src/octopus/inc/vc/theme.php:234
+#: src/octopus/inc/vc/theme.php:331 src/octopus/inc/vc/theme.php:433
+#: src/octopus/inc/vc/theme.php:556 src/octopus/inc/vc/theme.php:622
+#: src/octopus/inc/vc/theme.php:726 src/octopus/inc/vc/theme.php:824
+#: src/octopus/inc/vc/theme.php:891 src/octopus/inc/vc/theme.php:953
+#: src/octopus/inc/vc/theme.php:1080
+msgid "Opal Elements"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:235 src/octopus/inc/vc/elements.php:562
+#: src/octopus/inc/vc/event.php:23 src/octopus/inc/vc/event.php:117
+#: src/octopus/inc/vc/event.php:211 src/octopus/inc/vc/event.php:283
+#: src/octopus/inc/vc/news.php:40 src/octopus/inc/vc/news.php:112
+#: src/octopus/inc/vc/news.php:184 src/octopus/inc/vc/news.php:256
+#: src/octopus/inc/vc/news.php:323 src/octopus/inc/vc/news.php:389
+#: src/octopus/inc/vc/news.php:459 src/octopus/inc/vc/news.php:531
+#: src/octopus/inc/vc/news.php:598 src/octopus/inc/vc/news.php:671
+#: src/octopus/inc/vc/news.php:747 src/octopus/inc/vc/news.php:828
+#: src/octopus/inc/vc/news.php:913 src/octopus/inc/vc/news.php:1005
+#: src/octopus/inc/vc/news.php:1095 src/octopus/inc/vc/theme.php:80
+#: src/octopus/inc/vc/theme.php:176 src/octopus/inc/vc/theme.php:575
+#: src/octopus/inc/vc/theme.php:645 src/octopus/inc/vc/theme.php:739
+#: src/octopus/inc/vc/theme.php:835 src/octopus/inc/vc/theme.php:902
+#: src/octopus/inc/vc/theme.php:965 src/octopus/inc/vc/woocommerce.php:213
+#: src/octopus/inc/vc/woocommerce.php:288
+msgid "Title font size"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:238 src/octopus/inc/vc/elements.php:565
+#: src/octopus/inc/vc/event.php:26 src/octopus/inc/vc/event.php:120
+#: src/octopus/inc/vc/event.php:214 src/octopus/inc/vc/event.php:286
+#: src/octopus/inc/vc/news.php:43 src/octopus/inc/vc/news.php:115
+#: src/octopus/inc/vc/news.php:187 src/octopus/inc/vc/news.php:259
+#: src/octopus/inc/vc/news.php:326 src/octopus/inc/vc/news.php:392
+#: src/octopus/inc/vc/news.php:462 src/octopus/inc/vc/news.php:534
+#: src/octopus/inc/vc/news.php:601 src/octopus/inc/vc/news.php:674
+#: src/octopus/inc/vc/news.php:750 src/octopus/inc/vc/news.php:831
+#: src/octopus/inc/vc/news.php:916 src/octopus/inc/vc/news.php:1008
+#: src/octopus/inc/vc/news.php:1098 src/octopus/inc/vc/theme.php:83
+#: src/octopus/inc/vc/theme.php:179 src/octopus/inc/vc/theme.php:578
+#: src/octopus/inc/vc/theme.php:648 src/octopus/inc/vc/theme.php:742
+#: src/octopus/inc/vc/theme.php:838 src/octopus/inc/vc/theme.php:905
+#: src/octopus/inc/vc/theme.php:968 src/octopus/inc/vc/woocommerce.php:216
+#: src/octopus/inc/vc/woocommerce.php:291
+msgid "Large"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:239 src/octopus/inc/vc/elements.php:566
+#: src/octopus/inc/vc/event.php:27 src/octopus/inc/vc/event.php:121
+#: src/octopus/inc/vc/event.php:215 src/octopus/inc/vc/event.php:287
+#: src/octopus/inc/vc/news.php:44 src/octopus/inc/vc/news.php:116
+#: src/octopus/inc/vc/news.php:188 src/octopus/inc/vc/news.php:260
+#: src/octopus/inc/vc/news.php:327 src/octopus/inc/vc/news.php:393
+#: src/octopus/inc/vc/news.php:463 src/octopus/inc/vc/news.php:535
+#: src/octopus/inc/vc/news.php:602 src/octopus/inc/vc/news.php:675
+#: src/octopus/inc/vc/news.php:751 src/octopus/inc/vc/news.php:832
+#: src/octopus/inc/vc/news.php:917 src/octopus/inc/vc/news.php:1009
+#: src/octopus/inc/vc/news.php:1099 src/octopus/inc/vc/theme.php:84
+#: src/octopus/inc/vc/theme.php:180 src/octopus/inc/vc/theme.php:579
+#: src/octopus/inc/vc/theme.php:649 src/octopus/inc/vc/theme.php:743
+#: src/octopus/inc/vc/theme.php:839 src/octopus/inc/vc/theme.php:906
+#: src/octopus/inc/vc/theme.php:969 src/octopus/inc/vc/woocommerce.php:217
+#: src/octopus/inc/vc/woocommerce.php:292
+msgid "Medium"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:240 src/octopus/inc/vc/elements.php:567
+#: src/octopus/inc/vc/event.php:28 src/octopus/inc/vc/event.php:122
+#: src/octopus/inc/vc/event.php:216 src/octopus/inc/vc/event.php:288
+#: src/octopus/inc/vc/news.php:45 src/octopus/inc/vc/news.php:117
+#: src/octopus/inc/vc/news.php:189 src/octopus/inc/vc/news.php:261
+#: src/octopus/inc/vc/news.php:328 src/octopus/inc/vc/news.php:394
+#: src/octopus/inc/vc/news.php:464 src/octopus/inc/vc/news.php:536
+#: src/octopus/inc/vc/news.php:603 src/octopus/inc/vc/news.php:676
+#: src/octopus/inc/vc/news.php:752 src/octopus/inc/vc/news.php:833
+#: src/octopus/inc/vc/news.php:918 src/octopus/inc/vc/news.php:1010
+#: src/octopus/inc/vc/news.php:1100 src/octopus/inc/vc/theme.php:85
+#: src/octopus/inc/vc/theme.php:181 src/octopus/inc/vc/theme.php:580
+#: src/octopus/inc/vc/theme.php:650 src/octopus/inc/vc/theme.php:744
+#: src/octopus/inc/vc/theme.php:840 src/octopus/inc/vc/theme.php:907
+#: src/octopus/inc/vc/theme.php:970 src/octopus/inc/vc/woocommerce.php:218
+#: src/octopus/inc/vc/woocommerce.php:293
+msgid "Small"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:241 src/octopus/inc/vc/elements.php:568
+#: src/octopus/inc/vc/event.php:29 src/octopus/inc/vc/event.php:123
+#: src/octopus/inc/vc/event.php:217 src/octopus/inc/vc/event.php:289
+#: src/octopus/inc/vc/news.php:46 src/octopus/inc/vc/news.php:118
+#: src/octopus/inc/vc/news.php:190 src/octopus/inc/vc/news.php:262
+#: src/octopus/inc/vc/news.php:329 src/octopus/inc/vc/news.php:395
+#: src/octopus/inc/vc/news.php:465 src/octopus/inc/vc/news.php:537
+#: src/octopus/inc/vc/news.php:604 src/octopus/inc/vc/news.php:677
+#: src/octopus/inc/vc/news.php:753 src/octopus/inc/vc/news.php:834
+#: src/octopus/inc/vc/news.php:919 src/octopus/inc/vc/news.php:1011
+#: src/octopus/inc/vc/news.php:1101 src/octopus/inc/vc/theme.php:86
+#: src/octopus/inc/vc/theme.php:182 src/octopus/inc/vc/theme.php:581
+#: src/octopus/inc/vc/theme.php:651 src/octopus/inc/vc/theme.php:745
+#: src/octopus/inc/vc/theme.php:841 src/octopus/inc/vc/theme.php:908
+#: src/octopus/inc/vc/theme.php:971 src/octopus/inc/vc/woocommerce.php:219
+#: src/octopus/inc/vc/woocommerce.php:294
+msgid "Extra small"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:247 src/octopus/inc/vc/elements.php:310
+#: src/octopus/inc/vc/elements.php:414 src/octopus/inc/vc/elements.php:574
+#: src/octopus/inc/vc/event.php:34 src/octopus/inc/vc/event.php:128
+#: src/octopus/inc/vc/event.php:222 src/octopus/inc/vc/event.php:294
+#: src/octopus/inc/vc/news.php:29 src/octopus/inc/vc/news.php:101
+#: src/octopus/inc/vc/news.php:173 src/octopus/inc/vc/news.php:245
+#: src/octopus/inc/vc/news.php:312 src/octopus/inc/vc/news.php:378
+#: src/octopus/inc/vc/news.php:448 src/octopus/inc/vc/news.php:520
+#: src/octopus/inc/vc/news.php:587 src/octopus/inc/vc/news.php:660
+#: src/octopus/inc/vc/news.php:736 src/octopus/inc/vc/news.php:817
+#: src/octopus/inc/vc/news.php:902 src/octopus/inc/vc/news.php:994
+#: src/octopus/inc/vc/news.php:1084 src/octopus/inc/vc/theme.php:92
+#: src/octopus/inc/vc/theme.php:195 src/octopus/inc/vc/theme.php:634
+#: src/octopus/inc/vc/theme.php:750 src/octopus/inc/vc/theme.php:846
+#: src/octopus/inc/vc/theme.php:913 src/octopus/inc/vc/theme.php:976
+#: src/octopus/inc/vc/woocommerce.php:224
+#: src/octopus/inc/vc/woocommerce.php:299
+msgid "Title Alignment"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:250 src/octopus/inc/vc/elements.php:313
+#: src/octopus/inc/vc/elements.php:417 src/octopus/inc/vc/elements.php:577
+#: src/octopus/inc/vc/event.php:37 src/octopus/inc/vc/event.php:131
+#: src/octopus/inc/vc/event.php:225 src/octopus/inc/vc/event.php:297
+#: src/octopus/inc/vc/news.php:32 src/octopus/inc/vc/news.php:104
+#: src/octopus/inc/vc/news.php:176 src/octopus/inc/vc/news.php:248
+#: src/octopus/inc/vc/news.php:315 src/octopus/inc/vc/news.php:381
+#: src/octopus/inc/vc/news.php:451 src/octopus/inc/vc/news.php:523
+#: src/octopus/inc/vc/news.php:590 src/octopus/inc/vc/news.php:663
+#: src/octopus/inc/vc/news.php:739 src/octopus/inc/vc/news.php:820
+#: src/octopus/inc/vc/news.php:905 src/octopus/inc/vc/news.php:997
+#: src/octopus/inc/vc/news.php:1087 src/octopus/inc/vc/theme.php:95
+#: src/octopus/inc/vc/theme.php:198 src/octopus/inc/vc/theme.php:591
+#: src/octopus/inc/vc/theme.php:637 src/octopus/inc/vc/theme.php:753
+#: src/octopus/inc/vc/theme.php:849 src/octopus/inc/vc/theme.php:916
+#: src/octopus/inc/vc/theme.php:979 src/octopus/inc/vc/woocommerce.php:227
+#: src/octopus/inc/vc/woocommerce.php:302
+msgid "Align left"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:251 src/octopus/inc/vc/elements.php:314
+#: src/octopus/inc/vc/elements.php:418 src/octopus/inc/vc/elements.php:578
+#: src/octopus/inc/vc/event.php:38 src/octopus/inc/vc/event.php:132
+#: src/octopus/inc/vc/event.php:226 src/octopus/inc/vc/event.php:298
+#: src/octopus/inc/vc/news.php:33 src/octopus/inc/vc/news.php:105
+#: src/octopus/inc/vc/news.php:177 src/octopus/inc/vc/news.php:249
+#: src/octopus/inc/vc/news.php:316 src/octopus/inc/vc/news.php:382
+#: src/octopus/inc/vc/news.php:452 src/octopus/inc/vc/news.php:524
+#: src/octopus/inc/vc/news.php:591 src/octopus/inc/vc/news.php:664
+#: src/octopus/inc/vc/news.php:740 src/octopus/inc/vc/news.php:821
+#: src/octopus/inc/vc/news.php:906 src/octopus/inc/vc/news.php:998
+#: src/octopus/inc/vc/news.php:1088 src/octopus/inc/vc/theme.php:96
+#: src/octopus/inc/vc/theme.php:199 src/octopus/inc/vc/theme.php:590
+#: src/octopus/inc/vc/theme.php:638 src/octopus/inc/vc/theme.php:754
+#: src/octopus/inc/vc/theme.php:850 src/octopus/inc/vc/theme.php:917
+#: src/octopus/inc/vc/theme.php:980 src/octopus/inc/vc/woocommerce.php:228
+#: src/octopus/inc/vc/woocommerce.php:303
+msgid "Align center"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:252 src/octopus/inc/vc/elements.php:315
+#: src/octopus/inc/vc/elements.php:419 src/octopus/inc/vc/elements.php:579
+#: src/octopus/inc/vc/event.php:39 src/octopus/inc/vc/event.php:133
+#: src/octopus/inc/vc/event.php:227 src/octopus/inc/vc/event.php:299
+#: src/octopus/inc/vc/news.php:34 src/octopus/inc/vc/news.php:106
+#: src/octopus/inc/vc/news.php:178 src/octopus/inc/vc/news.php:250
+#: src/octopus/inc/vc/news.php:317 src/octopus/inc/vc/news.php:383
+#: src/octopus/inc/vc/news.php:453 src/octopus/inc/vc/news.php:525
+#: src/octopus/inc/vc/news.php:592 src/octopus/inc/vc/news.php:665
+#: src/octopus/inc/vc/news.php:741 src/octopus/inc/vc/news.php:822
+#: src/octopus/inc/vc/news.php:907 src/octopus/inc/vc/news.php:999
+#: src/octopus/inc/vc/news.php:1089 src/octopus/inc/vc/theme.php:97
+#: src/octopus/inc/vc/theme.php:200 src/octopus/inc/vc/theme.php:592
+#: src/octopus/inc/vc/theme.php:639 src/octopus/inc/vc/theme.php:755
+#: src/octopus/inc/vc/theme.php:851 src/octopus/inc/vc/theme.php:918
+#: src/octopus/inc/vc/theme.php:981 src/octopus/inc/vc/woocommerce.php:229
+#: src/octopus/inc/vc/woocommerce.php:304
+msgid "Align right"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:257 src/octopus/inc/vc/elements.php:485
+#: src/octopus/inc/vc/event.php:72 src/octopus/inc/vc/event.php:166
+msgid "Number"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:267 src/octopus/inc/vc/news.php:855
+msgid "Select Skin layout."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:271 src/octopus/inc/vc/elements.php:347
+#: src/octopus/inc/vc/elements.php:451 src/octopus/inc/vc/elements.php:525
+#: src/octopus/inc/vc/elements.php:634 src/octopus/inc/vc/elements.php:756
+#: src/octopus/inc/vc/event.php:88 src/octopus/inc/vc/event.php:172
+#: src/octopus/inc/vc/event.php:249 src/octopus/inc/vc/event.php:316
+#: src/octopus/inc/vc/news.php:76 src/octopus/inc/vc/news.php:148
+#: src/octopus/inc/vc/news.php:220 src/octopus/inc/vc/news.php:286
+#: src/octopus/inc/vc/news.php:353 src/octopus/inc/vc/news.php:420
+#: src/octopus/inc/vc/news.php:495 src/octopus/inc/vc/news.php:561
+#: src/octopus/inc/vc/news.php:634 src/octopus/inc/vc/news.php:701
+#: src/octopus/inc/vc/news.php:786 src/octopus/inc/vc/news.php:872
+#: src/octopus/inc/vc/news.php:965 src/octopus/inc/vc/news.php:1058
+#: src/octopus/inc/vc/news.php:1125 src/octopus/inc/vc/theme.php:43
+#: src/octopus/inc/vc/theme.php:145 src/octopus/inc/vc/theme.php:217
+#: src/octopus/inc/vc/theme.php:315 src/octopus/inc/vc/theme.php:417
+#: src/octopus/inc/vc/theme.php:509 src/octopus/inc/vc/theme.php:605
+#: src/octopus/inc/vc/theme.php:709 src/octopus/inc/vc/theme.php:806
+#: src/octopus/inc/vc/theme.php:874 src/octopus/inc/vc/theme.php:1066
+#: src/octopus/inc/vc/theme.php:1106 src/octopus/inc/vc/woocommerce.php:31
+#: src/octopus/inc/vc/woocommerce.php:132
+#: src/octopus/inc/vc/woocommerce.php:185
+#: src/octopus/inc/vc/woocommerce.php:262
+#: src/octopus/inc/vc/woocommerce.php:337
+#: src/octopus/inc/vc/woocommerce.php:383
+msgid "Extra class name"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:273 src/octopus/inc/vc/elements.php:349
+#: src/octopus/inc/vc/elements.php:453 src/octopus/inc/vc/elements.php:527
+#: src/octopus/inc/vc/elements.php:636 src/octopus/inc/vc/elements.php:758
+#: src/octopus/inc/vc/event.php:90 src/octopus/inc/vc/event.php:174
+#: src/octopus/inc/vc/event.php:251 src/octopus/inc/vc/event.php:318
+#: src/octopus/inc/vc/news.php:78 src/octopus/inc/vc/news.php:150
+#: src/octopus/inc/vc/news.php:222 src/octopus/inc/vc/news.php:288
+#: src/octopus/inc/vc/news.php:355 src/octopus/inc/vc/news.php:422
+#: src/octopus/inc/vc/news.php:497 src/octopus/inc/vc/news.php:563
+#: src/octopus/inc/vc/news.php:636 src/octopus/inc/vc/news.php:703
+#: src/octopus/inc/vc/news.php:788 src/octopus/inc/vc/news.php:874
+#: src/octopus/inc/vc/news.php:967 src/octopus/inc/vc/news.php:1060
+#: src/octopus/inc/vc/news.php:1127 src/octopus/inc/vc/theme.php:45
+#: src/octopus/inc/vc/theme.php:147 src/octopus/inc/vc/theme.php:219
+#: src/octopus/inc/vc/theme.php:317 src/octopus/inc/vc/theme.php:419
+#: src/octopus/inc/vc/theme.php:511 src/octopus/inc/vc/theme.php:607
+#: src/octopus/inc/vc/theme.php:711 src/octopus/inc/vc/theme.php:1108
+#: src/octopus/inc/vc/woocommerce.php:33
+#: src/octopus/inc/vc/woocommerce.php:134
+#: src/octopus/inc/vc/woocommerce.php:187
+#: src/octopus/inc/vc/woocommerce.php:264
+#: src/octopus/inc/vc/woocommerce.php:339
+#: src/octopus/inc/vc/woocommerce.php:385
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:285
+msgid "WPO Block Heading"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:289
+msgid "Create Block Heading with info + icon"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:294
+msgid "Block Heading Title"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:297 src/octopus/inc/vc/theme.php:564
+#: src/octopus/inc/vc/theme.php:734 src/octopus/inc/vc/theme.php:1088
+msgid "Enter heading title."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:302
+msgid "Sub Heading Title"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:305
+msgid "Enter Sub heading title."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:343 src/octopus/inc/vc/theme.php:601
+#: src/octopus/inc/vc/theme.php:1102
+msgid "Enter description for title."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:362
+msgid "Opal Featured Box"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:364
+msgid "Decreale Service Info"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:378 src/octopus/inc/vc/elements.php:554
+msgid "Sub Title"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:400
+msgid "Background Block"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:408 src/octopus/inc/vc/elements.php:588
+#: src/octopus/inc/vc/theme.php:775
+msgid "Light"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:425 src/octopus/inc/vc/elements.php:492
+#: src/octopus/inc/vc/theme.php:658
+msgid "FontAwsome Icon"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:435 src/octopus/inc/vc/theme.php:342
+#: src/octopus/inc/vc/theme.php:444
+msgid "Photo"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:443 src/octopus/inc/vc/elements.php:612
+#: src/octopus/inc/vc/elements.php:686 src/octopus/inc/vc/theme.php:357
+#: src/octopus/inc/vc/theme.php:458
+msgid "information"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:446 src/octopus/inc/vc/elements.php:615
+#: src/octopus/inc/vc/elements.php:689 src/octopus/inc/vc/theme.php:295
+#: src/octopus/inc/vc/theme.php:360 src/octopus/inc/vc/theme.php:461
+#: src/octopus/inc/vc/theme.php:687 src/octopus/inc/vc/theme.php:696
+msgid "Allow  put html tags"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:463
+msgid "WPO Counter"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:466 src/octopus/inc/vc/theme.php:621
+msgid "Counting number with your term"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:503 src/octopus/inc/vc/theme.php:676
+msgid "If you upload an image, icon will not show."
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:506 src/octopus/inc/vc/theme.php:679
+#: src/octopus/inc/vc/woocommerce.php:109
+#: src/octopus/inc/vc/woocommerce.php:173
+msgid "Image"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:513
+msgid "Style 1 light style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:518
+msgid "Text Color"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:539
+msgid "WPO Info Box"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:542
+msgid "Show header, text in special style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:585
+msgid "Info Box Content Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:589 src/octopus/inc/vc/theme.php:776
+msgid "Dark"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:594
+msgid "Info Box Align Mode"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:597
+msgid "Left Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:598
+msgid "Right Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:603
+msgid "Style display"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:619 src/octopus/inc/vc/elements.php:693
+msgid "Backgroup Image"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:626
+msgid "Background Color"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:648
+msgid "WPO Banner"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:651
+msgid "Show Banner in special style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:663
+msgid "Sub title"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:670
+msgid "Content Position"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:673
+msgid "Left"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:674
+msgid "Center"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:675
+msgid "Right"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:680
+msgid "Padding"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:700
+msgid "Link Button"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:706
+msgid "Text Button"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:728
+msgid "Outline Light"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:766
+msgid "Display Style"
+msgstr ""
+
+#: src/octopus/inc/vc/elements.php:775
+msgid "Image (use display style popup)"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:7
+msgid "WPO Event Frontend"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:44 src/octopus/inc/vc/event.php:138
+msgid "Mode"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:47 src/octopus/inc/vc/event.php:141
+msgid "Featured Events"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:48 src/octopus/inc/vc/event.php:142
+msgid "Lastest Events"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:49 src/octopus/inc/vc/event.php:143
+msgid "Randown Events"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:54 src/octopus/inc/vc/event.php:148
+msgid "Order by"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:57 src/octopus/inc/vc/event.php:151
+#: src/octopus/inc/vc/event.php:304
+#: src/octopus/templates/portfolio/content-infomation.php:36
+msgid "Date"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:58 src/octopus/inc/vc/event.php:152
+#: src/octopus/woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:63 src/octopus/inc/vc/event.php:157
+msgid "Order"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:66 src/octopus/inc/vc/event.php:160
+msgid "ESC"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:67 src/octopus/inc/vc/event.php:161
+msgid "DESC"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:78
+msgid "Column"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:101
+msgid "WPO Event Accordion"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:195
+msgid "WPO Event Countdown"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:232
+msgid "Event Single"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:261
+msgid "WPO Event Of Date"
+msgstr ""
+
+#: src/octopus/inc/vc/event.php:310
+msgid "Events"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:12
+msgid "WPO FrontPage 1"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:15 src/octopus/inc/vc/news.php:87
+#: src/octopus/inc/vc/news.php:159 src/octopus/inc/vc/news.php:231
+#: src/octopus/inc/vc/news.php:298 src/octopus/inc/vc/news.php:364
+#: src/octopus/inc/vc/news.php:434 src/octopus/inc/vc/news.php:506
+#: src/octopus/inc/vc/news.php:573 src/octopus/inc/vc/news.php:646
+#: src/octopus/inc/vc/news.php:722 src/octopus/inc/vc/news.php:803
+#: src/octopus/inc/vc/news.php:888 src/octopus/inc/vc/news.php:980
+#: src/octopus/inc/vc/news.php:1070
+msgid "Opal News"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:16 src/octopus/inc/vc/news.php:88
+#: src/octopus/inc/vc/news.php:160 src/octopus/inc/vc/news.php:232
+#: src/octopus/inc/vc/news.php:299 src/octopus/inc/vc/news.php:435
+#: src/octopus/inc/vc/news.php:507 src/octopus/inc/vc/news.php:574
+#: src/octopus/inc/vc/news.php:647 src/octopus/inc/vc/news.php:723
+#: src/octopus/inc/vc/news.php:889 src/octopus/inc/vc/news.php:1071
+msgid "Create Post having blog styles"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:21 src/octopus/inc/vc/news.php:93
+#: src/octopus/inc/vc/news.php:165 src/octopus/inc/vc/news.php:237
+#: src/octopus/inc/vc/news.php:304 src/octopus/inc/vc/news.php:370
+#: src/octopus/inc/vc/news.php:440 src/octopus/inc/vc/news.php:512
+#: src/octopus/inc/vc/news.php:579 src/octopus/inc/vc/news.php:652
+#: src/octopus/inc/vc/news.php:728 src/octopus/inc/vc/news.php:809
+#: src/octopus/inc/vc/news.php:894 src/octopus/inc/vc/news.php:986
+#: src/octopus/inc/vc/news.php:1076 src/octopus/inc/vc/theme.php:561
+msgid "Widget title"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:23 src/octopus/inc/vc/news.php:95
+#: src/octopus/inc/vc/news.php:167 src/octopus/inc/vc/news.php:239
+#: src/octopus/inc/vc/news.php:306 src/octopus/inc/vc/news.php:372
+#: src/octopus/inc/vc/news.php:442 src/octopus/inc/vc/news.php:514
+#: src/octopus/inc/vc/news.php:581 src/octopus/inc/vc/news.php:654
+#: src/octopus/inc/vc/news.php:730 src/octopus/inc/vc/news.php:811
+#: src/octopus/inc/vc/news.php:896 src/octopus/inc/vc/news.php:988
+#: src/octopus/inc/vc/news.php:1078
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:52 src/octopus/inc/vc/news.php:124
+#: src/octopus/inc/vc/news.php:196 src/octopus/inc/vc/news.php:268
+#: src/octopus/inc/vc/news.php:335 src/octopus/inc/vc/news.php:402
+#: src/octopus/inc/vc/news.php:471 src/octopus/inc/vc/news.php:543
+#: src/octopus/inc/vc/news.php:610 src/octopus/inc/vc/news.php:683
+#: src/octopus/inc/vc/news.php:759 src/octopus/inc/vc/news.php:840
+#: src/octopus/inc/vc/news.php:932 src/octopus/inc/vc/news.php:1024
+#: src/octopus/inc/vc/news.php:1107
+msgid "Grids content"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:58 src/octopus/inc/vc/news.php:130
+#: src/octopus/inc/vc/news.php:202 src/octopus/inc/vc/news.php:274
+#: src/octopus/inc/vc/news.php:341 src/octopus/inc/vc/news.php:408
+#: src/octopus/inc/vc/news.php:477 src/octopus/inc/vc/news.php:549
+#: src/octopus/inc/vc/news.php:616 src/octopus/inc/vc/news.php:689
+#: src/octopus/inc/vc/news.php:765 src/octopus/inc/vc/news.php:846
+#: src/octopus/inc/vc/news.php:938 src/octopus/inc/vc/news.php:1030
+#: src/octopus/inc/vc/news.php:1113
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:62 src/octopus/inc/vc/news.php:134
+#: src/octopus/inc/vc/news.php:206 src/octopus/inc/vc/news.php:481
+#: src/octopus/inc/vc/news.php:772
+msgid "Number Main Posts"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:70 src/octopus/inc/vc/news.php:142
+#: src/octopus/inc/vc/news.php:214 src/octopus/inc/vc/news.php:280
+#: src/octopus/inc/vc/news.php:347 src/octopus/inc/vc/news.php:414
+#: src/octopus/inc/vc/news.php:489 src/octopus/inc/vc/news.php:555
+#: src/octopus/inc/vc/news.php:628 src/octopus/inc/vc/news.php:695
+#: src/octopus/inc/vc/news.php:780 src/octopus/inc/vc/news.php:866
+#: src/octopus/inc/vc/news.php:959 src/octopus/inc/vc/news.php:1052
+#: src/octopus/inc/vc/news.php:1119
+msgid "Thumbnail size"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:72 src/octopus/inc/vc/news.php:144
+#: src/octopus/inc/vc/news.php:216 src/octopus/inc/vc/news.php:282
+#: src/octopus/inc/vc/news.php:349 src/octopus/inc/vc/news.php:416
+#: src/octopus/inc/vc/news.php:491 src/octopus/inc/vc/news.php:557
+#: src/octopus/inc/vc/news.php:630 src/octopus/inc/vc/news.php:697
+#: src/octopus/inc/vc/news.php:782 src/octopus/inc/vc/news.php:868
+#: src/octopus/inc/vc/news.php:961 src/octopus/inc/vc/news.php:1054
+#: src/octopus/inc/vc/news.php:1121
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height) . "
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:84
+msgid "WPO FrontPage 2"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:156
+msgid "WPO FrontPage 3"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:228
+msgid "WPO FrontPage 4"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:295
+msgid "WPO FrontPage 12"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:361
+msgid "WPO FontPage News 13"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:365
+msgid "Create Categories Tab Hovering to show post"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:431
+msgid "WPO FrontPage 14"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:503
+msgid "WPO Categories Post"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:570
+msgid "WPO FrontPage 9"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:620 src/octopus/inc/vc/news.php:859
+#: src/octopus/inc/vc/news.php:951 src/octopus/inc/vc/news.php:1043
+msgid "Grid Columns"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:643
+msgid "WPO TimeLine Post"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:707 src/octopus/inc/vc/theme.php:136
+msgid "Enable Pagination"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:712 src/octopus/inc/vc/theme.php:141
+msgid "Select style display."
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:719
+msgid "WPO Categories Tab Post"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:797
+msgid "List not image"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:800
+msgid "WPO Grid Posts"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:804
+msgid "Post having news,managzine style"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:850
+msgid "Layout Type"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:885
+msgid "WPO Grids Blogs"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:945 src/octopus/inc/vc/news.php:1037
+msgid "Default Style"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:945 src/octopus/inc/vc/news.php:1037
+msgid "Special Style 1"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:945 src/octopus/inc/vc/news.php:1037
+msgid "Special Style 2"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:945
+msgid "Special Style 3"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:977
+msgid "WPO Slideshow Post"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:981
+msgid "Play Posts In slideshow"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:1017
+msgid "Heading Description"
+msgstr ""
+
+#: src/octopus/inc/vc/news.php:1067
+msgid "WPO List Post"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:6
+msgid "---Select Menu---"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:11
+msgid "WPO Vertical Menu"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:24 src/octopus/sidebar-offcanvas-left.php:7
+#: src/octopus/templates/mobile/offcanvas.php:10
+msgid "Menu"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:28
+msgid "Select menu."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:32
+msgid "Position"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:39
+msgid "Postion Menu Vertical."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:55
+msgid "WPO Portfolio"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:71
+msgid "Item No Padding"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:110
+msgid "Display Masonry"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:120
+msgid "Number of portfolio to show"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:127 src/octopus/inc/vc/woocommerce.php:37
+#: src/octopus/inc/vc/woocommerce.php:119
+#: src/octopus/inc/vc/woocommerce.php:248
+#: src/octopus/inc/vc/woocommerce.php:329
+msgid "Columns count"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:132 src/octopus/inc/vc/woocommerce.php:41
+#: src/octopus/inc/vc/woocommerce.php:49
+#: src/octopus/inc/vc/woocommerce.php:123
+#: src/octopus/inc/vc/woocommerce.php:238
+#: src/octopus/inc/vc/woocommerce.php:252
+#: src/octopus/inc/vc/woocommerce.php:333
+msgid "Select columns count."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:160
+msgid "WPO Brands Carousel"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:206
+msgid "Number of brands to show"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:230
+msgid "WPO Pricing"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:232
+msgid "Make Plan for membership"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:245 src/octopus/woocommerce/cart/cart.php:32
+msgid "Price"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:252
+msgid "Currency"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:259
+msgid "Period"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:266
+msgid "Subtitle"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:273
+msgid "Is Featured"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:281
+msgid "Skin 2"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:281
+msgid "Skin 3"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:285
+msgid "Box Style"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:287
+msgid "Boxed"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:292
+msgid "Content"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:300
+msgid "Link Title"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:308
+msgid "Link"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:327
+msgid "WPO Our Team Grid Style"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:349
+msgid "Job"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:371
+msgid "Google Plus"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:378 src/octopus/inc/vc/theme.php:479
+msgid "Facebook"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:394
+msgid "Pinterest"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:402 src/octopus/inc/vc/theme.php:495
+msgid "Linked In"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:412 src/octopus/inc/vc/theme.php:505
+#: src/octopus/inc/vc/theme.php:704
+msgid "circle"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:412 src/octopus/inc/vc/theme.php:505
+#: src/octopus/inc/vc/theme.php:704
+msgid "vertical"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:412 src/octopus/inc/vc/theme.php:505
+#: src/octopus/inc/vc/theme.php:704
+msgid "horizontal"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:412
+msgid "special"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:412
+msgid "hover"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:429
+msgid "WPO Our Team List Style"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:432
+msgid "Show Info In List Style"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:465
+msgid "blockquote"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:553
+msgid "WPO Widget Heading"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:557
+msgid "Create title for one Widget"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:569
+msgid "Title Color"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:571
+msgid "Select font color"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:583
+msgid "Select title font size."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:587
+msgid "Title Align"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:594
+msgid "Select title align."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:618
+msgid "WPO Reassuarence"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:668
+msgid "Icon Color"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:684
+msgid "Short Information"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:693
+msgid "Detail Information"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:727
+msgid "Create title for one block"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:731
+msgid "Widget"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:733
+msgid "Find us on Facebook"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:760
+msgid "Facebook Page URL"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:766
+msgid "Width"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:772
+msgid "Color Scheme"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:778
+msgid "Select Color Scheme."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:782
+msgid "Show faces"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:790
+msgid "Show stream"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:798
+msgid "Show facebook header"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:819
+msgid "WPO Gallery Grid"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:856 src/octopus/inc/vc/theme.php:923
+msgid "Number gallery"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:862 src/octopus/inc/vc/theme.php:929
+msgid "Columns"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:868
+msgid "Remove Padding"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:886
+msgid "WPO Gallery Filter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:935
+msgid "Show Pagination"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:948
+msgid "WPO Social Counter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:986
+msgid "Display Twitter counter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:995
+msgid "Twitter Username"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:999
+msgid "Insert the Twitter username. Example: https://twitter.com/opalwordpress"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1003
+msgid "Display Facebook counter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1012
+msgid "Facebook Page Url"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1016
+msgid "Facebook page url. Example: https://www.facebook.com/opalwordpress"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1020
+msgid "Display YouTube counter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1029
+msgid "YouTube username"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1033
+msgid ""
+"Insert the YouTube username. Example: https://www.youtube.com/user/"
+"WPOpalTheme"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1037
+msgid "Display Google+ counter"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1046
+msgid "Google+ ID"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1050
+msgid ""
+"Google+ page or profile ID. Example:\n"
+"\t\t\t\t\thttps://plus.google.com/118034858850902691620"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1055
+msgid "Google API Key"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1059
+msgid ""
+"Get your API key creating a project/app in https://console.developers.google."
+"com/project, \n"
+"\t\t    \t\t\t\t\tthen inside your project go to \"APIs & auth > APIs\" and "
+"turn on the \"Google+ API\", \n"
+"\t\t    \t\t\t\t\tfinally go to \"APIs & auth > APIs > Credentials > Public "
+"API access\" and click in the \"CREATE A NEW KEY\" button, \n"
+"\t\t    \t\t\t\t\tselect the \"Browser key\" option and click in the \"CREATE"
+"\" button, now just copy your API key and paste here."
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1076
+msgid "WPO Coming soon"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1081
+msgid "Create Element Coming soon"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1093
+msgid "Date coming soon"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1095
+msgid "Enter Date Coming soon"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1115
+msgid "countdown-v1"
+msgstr ""
+
+#: src/octopus/inc/vc/theme.php:1116
+msgid "countdown-v2"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:17
+msgid "WPO Product Deals"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:20 src/octopus/inc/vc/woocommerce.php:81
+#: src/octopus/inc/vc/woocommerce.php:156
+#: src/octopus/inc/vc/woocommerce.php:202
+#: src/octopus/inc/vc/woocommerce.php:277
+#: src/octopus/inc/vc/woocommerce.php:350
+msgid "Opal Woocommce"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:47
+msgid "Carousel"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:73
+msgid "TopRated Products"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:78
+msgid "WPO Product Category"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:93
+#: src/octopus/inc/vc/woocommerce.php:162
+#: src/octopus/templates/portfolio/content-infomation.php:52
+#: src/octopus/tribe-events/community/event-list.php:76
+msgid "Category"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:106
+msgid "Upload an image for categories"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:113
+#: src/octopus/inc/vc/woocommerce.php:256
+#: src/octopus/inc/vc/woocommerce.php:323
+msgid "Number of products to show"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:153
+msgid "WPO Product Categories Filter"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:170
+msgid "Upload an image for categories (190px x 190px)"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:178
+msgid "Number of categories to show"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:199
+msgid "WPO Products"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:274
+msgid "WPO Products Tabs"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:309
+msgid "Show Tab"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:311
+msgid "Control teasers look. Enable blocks and place them in desired order."
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:347
+msgid "WPO Product Categories List"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:361
+msgid "Show post counts"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:363
+msgid "Enables show count total product of category."
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:368
+msgid "show children of the current category"
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:370
+msgid "Enables show children of the current category."
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:375
+msgid "Show dropdown children of the current category "
+msgstr ""
+
+#: src/octopus/inc/vc/woocommerce.php:377
+msgid "Enables show dropdown children of the current category."
+msgstr ""
+
+#: src/octopus/inc/woocommerce/woocommerce.php:98
+msgid "Placeholder"
+msgstr ""
+
+#: src/octopus/inc/woocommerce/woocommerce.php:114
+#: src/octopus/tribe-events/community/event-list.php:119
+msgid "View"
+msgstr ""
+
+#. /GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+#. *
+#. * @website  http://www.wpopal.com
+#. * @support  http://www.wpopal.com/support/forum.html
+#.
+#: src/octopus/searchform.php:17
+msgid "Search..."
+msgstr ""
+
+#: src/octopus/single.php:50
+msgid "Leave a comment"
+msgstr ""
+
+#: src/octopus/single.php:54
+msgid "Edit"
+msgstr ""
+
+#: src/octopus/single.php:60
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: src/octopus/single.php:62
+msgid "Pages:"
+msgstr ""
+
+#: src/octopus/single.php:73
+msgid "Tags:"
+msgstr ""
+
+#: src/octopus/single.php:78
+msgid "Share this Post!"
+msgstr ""
+
+#. /GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+#. *
+#. * @website  http://www.wpopal.com
+#. * @support  http://www.wpopal.com/support/forum.html
+#.
+#: src/octopus/templates/blog/blog-fullwidth.php:69
+#: src/octopus/templates/blog/blog-list.php:77
+#: src/octopus/templates/blog/blog-masonry.php:69
+#: src/octopus/templates/blog/blog.php:75
+#: src/octopus/templates/blog/special-3.php:36
+#: src/octopus/templates/post/_single-fp-v1.php:57
+#: src/octopus/templates/post/_single-fp-v2.php:37
+#: src/octopus/templates/post/_single.php:54
+#: src/octopus/templates/post/_timeline.php:71
+#: src/octopus/templates/post/slideshow.php:30
+msgid "By "
+msgstr ""
+
+#. /GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+#. *
+#. * @website  http://www.wpopal.com
+#. * @support  http://www.wpopal.com/support/forum.html
+#.
+#: src/octopus/templates/blog/blog-fullwidth.php:72
+#: src/octopus/templates/blog/blog-grid.php:62
+#: src/octopus/templates/blog/blog-list.php:80
+#: src/octopus/templates/blog/blog-masonry.php:72
+#: src/octopus/templates/blog/blog-portfolio.php:72
+#: src/octopus/templates/blog/blog.php:78
+#: src/octopus/templates/blog/special-1.php:32
+#: src/octopus/templates/blog/special-2.php:32
+#: src/octopus/templates/blog/special-3.php:39
+#: src/octopus/templates/post/_single-hover.php:16
+#: src/octopus/templates/post/_timeline.php:74
+#: src/octopus/templates/widgets/recent_post/stick.php:54
+#: src/octopus/templates/widgets/recent_post/stick.php:73
+msgid " 0 comment"
+msgstr ""
+
+#: src/octopus/templates/blog/blog-fullwidth.php:72
+#: src/octopus/templates/blog/blog-grid.php:62
+#: src/octopus/templates/blog/blog-list.php:80
+#: src/octopus/templates/blog/blog-masonry.php:72
+#: src/octopus/templates/blog/blog-portfolio.php:72
+#: src/octopus/templates/blog/blog.php:78
+#: src/octopus/templates/blog/special-1.php:32
+#: src/octopus/templates/blog/special-2.php:32
+#: src/octopus/templates/blog/special-3.php:39
+#: src/octopus/templates/post/_single-hover.php:16
+#: src/octopus/templates/post/_timeline.php:74
+#: src/octopus/templates/widgets/recent_post/stick.php:54
+#: src/octopus/templates/widgets/recent_post/stick.php:73
+msgid " 1 comment"
+msgstr ""
+
+#: src/octopus/templates/blog/blog-fullwidth.php:72
+#: src/octopus/templates/blog/blog-grid.php:62
+#: src/octopus/templates/blog/blog-list.php:80
+#: src/octopus/templates/blog/blog-masonry.php:72
+#: src/octopus/templates/blog/blog-portfolio.php:72
+#: src/octopus/templates/blog/blog.php:78
+#: src/octopus/templates/blog/special-1.php:32
+#: src/octopus/templates/blog/special-2.php:32
+#: src/octopus/templates/blog/special-3.php:39
+#: src/octopus/templates/post/_single-hover.php:16
+#: src/octopus/templates/post/_timeline.php:74
+#: src/octopus/templates/widgets/recent_post/stick.php:54
+#: src/octopus/templates/widgets/recent_post/stick.php:73
+#, php-format
+msgid " % comments"
+msgstr ""
+
+#: src/octopus/templates/blog/blog-fullwidth.php:81
+#: src/octopus/templates/blog/blog-masonry.php:81
+#: src/octopus/templates/blog/blog-portfolio.php:86
+#: src/octopus/templates/blog/blog.php:87
+#: src/octopus/templates/post/_timeline.php:83
+msgid "read more"
+msgstr ""
+
+#: src/octopus/templates/content/content-none.php:4
+#: src/octopus/templates/elements/none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: src/octopus/templates/content/content-none.php:10
+#: src/octopus/templates/elements/none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/octopus/templates/content/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: src/octopus/templates/content/content-none.php:19
+#: src/octopus/templates/elements/none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:90
+msgid "project description"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:94
+msgid "Empty Post...!"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:104
+#: src/octopus/templates/portfolio/content-infomation.php:60
+msgid "Client"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:122
+msgid "quick info"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:126
+msgid "Author:"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:130
+msgid "Category:"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:134
+#: src/octopus/tribe-events/modules/meta/details.php:52
+#: src/octopus/tribe-events/modules/meta/details.php:77
+msgid "Date:"
+msgstr ""
+
+#: src/octopus/templates/content/content-portfolio.php:138
+msgid "Tag: "
+msgstr ""
+
+#. /GPL v2 or later http://www.gnu.org/licenses/gpl-2.0.html
+#. *
+#. * @website  http://www.wpopal.com
+#. * @support  http://www.wpopal.com/support/forum.html
+#.
+#: src/octopus/templates/elements/author-bio.php:19
+msgid "About the Author :"
+msgstr ""
+
+#: src/octopus/templates/elements/list_comments.php:30
+#: src/octopus/templates/list_comments.php:30
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: src/octopus/templates/elements/list_comments.php:31
+#: src/octopus/templates/list_comments.php:31
+msgid " - Edit"
+msgstr ""
+
+#: src/octopus/templates/elements/list_comments.php:32
+#: src/octopus/templates/list_comments.php:32
+msgid " - Reply"
+msgstr ""
+
+#: src/octopus/templates/elements/list_comments.php:37
+#: src/octopus/templates/list_comments.php:37
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: src/octopus/templates/elements/none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: src/octopus/templates/elements/post-nav.php:3
+msgid "Next story"
+msgstr ""
+
+#: src/octopus/templates/elements/post-nav.php:4
+msgid "Previous story"
+msgstr ""
+
+#: src/octopus/templates/elements/related-posts.php:6
+msgid "You may also like..."
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:20
+msgid "Share on facebook"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:27
+msgid "Share on Twitter"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:34
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:41
+msgid "Share on Tumblr"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:49
+msgid "Share on Google plus"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:57
+msgid "Share on Pinterest"
+msgstr ""
+
+#: src/octopus/templates/elements/sharebox.php:64
+msgid "Email to a Friend"
+msgstr ""
+
+#: src/octopus/templates/elements/sharrre.php:2
+msgid "Share"
+msgstr ""
+
+#: src/octopus/templates/elements/user-buttons.php:2
+msgid "Login"
+msgstr ""
+
+#: src/octopus/templates/elements/user-buttons.php:3
+msgid "Register"
+msgstr ""
+
+#: src/octopus/templates/mobile/topbar.php:43
+#: src/octopus/woocommerce/cart/mini-cart-button-v2.php:6
+#: src/octopus/woocommerce/cart/mini-cart-button-v3.php:9
+#: src/octopus/woocommerce/cart/mini-cart-button-v4.php:9
+#: src/octopus/woocommerce/cart/mini-cart-button.php:9
+msgid "View your shopping cart"
+msgstr ""
+
+#: src/octopus/templates/portfolio/content-infomation.php:18
+msgid "Author"
+msgstr ""
+
+#: src/octopus/templates/portfolio/content-infomation.php:26
+msgid "Demo"
+msgstr ""
+
+#: src/octopus/templates/portfolio/content-infomation.php:76
+msgid "Tags"
+msgstr ""
+
+#: src/octopus/templates/post/_categories-list.php:29
+#: src/octopus/templates/post/_single-fp-v1.php:52
+#: src/octopus/templates/post/_single-fp-v2.php:32
+#: src/octopus/templates/post/_single.php:49
+#: src/octopus/templates/post/slideshow.php:25
+msgid " 0 "
+msgstr ""
+
+#: src/octopus/templates/post/_categories-list.php:29
+#: src/octopus/templates/post/_single-fp-v1.php:52
+#: src/octopus/templates/post/_single-fp-v2.php:32
+#: src/octopus/templates/post/_single.php:49
+#: src/octopus/templates/post/slideshow.php:25
+msgid " 1 "
+msgstr ""
+
+#: src/octopus/templates/post/_categories-list.php:29
+#: src/octopus/templates/post/_single-fp-v1.php:52
+#: src/octopus/templates/post/_single-fp-v2.php:32
+#: src/octopus/templates/post/_single.php:49
+#: src/octopus/templates/post/slideshow.php:25
+msgid " % "
+msgstr ""
+
+#: src/octopus/templates/post/_single-fp-v1.php:10
+#: src/octopus/templates/post/_single-v2.php:8
+#: src/octopus/templates/post/_single-v3.php:8
+#: src/octopus/templates/post/_single-v4.php:8
+#: src/octopus/templates/post/_single.php:9
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: src/octopus/templates/related_portfolio.php:6
+#: src/octopus/templates/related_post.php:5
+msgid "You may also like"
+msgstr ""
+
+#: src/octopus/templates/widgets/campaign_author/default.php:43
+#, php-format
+msgid "%d campaign"
+msgstr ""
+
+#: src/octopus/templates/widgets/campaign_author/default.php:52
+msgid "Profile"
+msgstr ""
+
+#: src/octopus/templates/widgets/featured_post/default.php:36
+#: src/octopus/templates/widgets/posts/default.php:41
+#: src/octopus/templates/widgets/recent_post/default.php:46
+#: src/octopus/templates/widgets/tabs/default.php:39
+#: src/octopus/templates/widgets/tabs/default.php:72
+msgid "Posted: "
+msgstr ""
+
+#: src/octopus/templates/widgets/recent_comment/default.php:33
+#: src/octopus/templates/widgets/tabs/default.php:100
+msgid "says"
+msgstr ""
+
+#: src/octopus/templates/widgets/tabs/default.php:4
+msgid "Popular"
+msgstr ""
+
+#: src/octopus/templates/widgets/tabs/default.php:9
+msgid "Recent"
+msgstr ""
+
+#: src/octopus/templates/widgets/tabs/default.php:14
+msgid "Comments"
+msgstr ""
+
+#: src/octopus/templates/widgets/video/default.php:14
+msgid "Video error!"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:26
+msgid "Add New"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:31
+msgid "Display"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:46
+#: src/octopus/tribe-events/community/modules/header-links.php:19
+msgid "Not"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:49
+#: src/octopus/tribe-events/community/modules/header-links.php:19
+msgid "Log Out"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:57
+msgid "There are no upcoming events in your queue."
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:74
+msgid "Organizer"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:75
+msgid "Venue"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:78
+msgid "Recurring?"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:79
+msgid "Start Date"
+msgstr ""
+
+#: src/octopus/tribe-events/community/event-list.php:80
+msgid "End Date"
+msgstr ""
+
+#: src/octopus/tribe-events/community/modules/header-links.php:18
+msgid "My Events"
+msgstr ""
+
+#: src/octopus/tribe-events/day/nav.php:16
+msgid "Day Navigation"
+msgstr ""
+
+#. /tribe-events/list/nav.php
+#. *
+#. * @package TribeEventsCalendar
+#. * @since  3.0
+#. * @author Modern Tribe Inc.
+#. *
+#.
+#: src/octopus/tribe-events/list/nav.php:17
+#: src/octopus/tribe-events/pro/day/nav.php:15
+#: src/octopus/tribe-events/pro/map/nav.php:17
+msgid "Events List Navigation"
+msgstr ""
+
+#: src/octopus/tribe-events/list/nav.php:23
+msgid "<span>&laquo;</span> Previous Events"
+msgstr ""
+
+#: src/octopus/tribe-events/list/nav.php:30
+msgid "Next Events <span>&raquo;</span>"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/bar.php:33
+#: src/octopus/tribe-events/modules/bar.php:46
+msgid "Find Events"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/bar.php:57
+msgid "Event Views Navigation"
+msgstr ""
+
+#. /tribe-events/modules/meta/details.php
+#. *
+#. * @package TribeEventsCalendar
+#.
+#: src/octopus/tribe-events/modules/meta/details.php:13
+msgid "Details"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:36
+#: src/octopus/tribe-events/modules/meta/details.php:62
+msgid "Start:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:41
+#: src/octopus/tribe-events/modules/meta/details.php:67
+msgid "End:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:82
+msgid "Time:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:97
+msgid "Cost:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:117
+msgid "Event Tags:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/details.php:123
+#: src/octopus/tribe-events/modules/meta/organizer.php:36
+#: src/octopus/tribe-events/modules/meta/venue.php:47
+msgid "Website:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/organizer.php:24
+#: src/octopus/tribe-events/modules/meta/venue.php:41
+msgid "Phone:"
+msgstr ""
+
+#: src/octopus/tribe-events/modules/meta/organizer.php:30
+msgid "Email:"
+msgstr ""
+
+#. /tribe-events/month/nav.php
+#. *
+#. * @package TribeEventsCalendar
+#. * @since  3.0
+#. * @author Modern Tribe Inc.
+#. *
+#.
+#: src/octopus/tribe-events/month/nav.php:18
+msgid "Calendar Month Navigation"
+msgstr ""
+
+#: src/octopus/tribe-events/month/single-day.php:45
+#: src/octopus/tribe-events/month/single-day.php:51
+msgid "1 Event"
+msgstr ""
+
+#: src/octopus/tribe-events/pro/map/nav.php:27
+#, php-format
+msgid "Page %d of %d"
+msgstr ""
+
+#: src/octopus/tribe-events/pro/map/nav.php:34
+msgid "&laquo; Previous Events"
+msgstr ""
+
+#: src/octopus/tribe-events/pro/map/nav.php:41
+msgid "Next Events &raquo;"
+msgstr ""
+
+#. /tribe-events/week/nav.php
+#. *
+#. * @package TribeEventsCalendar
+#. * @since  3.0
+#. * @author Modern Tribe Inc.
+#. *
+#.
+#: src/octopus/tribe-events/pro/week/nav.php:16
+msgid "Week Navigation"
+msgstr ""
+
+#: src/octopus/vc_templates/event_countdown/event-layout-2.php:32
+#: src/octopus/vc_templates/wpo_event_accordion.php:124
+msgid "Time left"
+msgstr ""
+
+#: src/octopus/vc_templates/event_countdown/event-layout-3.php:30
+msgid "View more"
+msgstr ""
+
+#: src/octopus/vc_templates/post_block/_item.php:24
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: src/octopus/vc_templates/post_block/_item.php:24
+#: src/octopus/vc_templates/wpo_event_accordion.php:88
+#: src/octopus/vc_templates/wpo_event_accordion.php:118
+msgid "Read more"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_button2.php:5
+#: src/octopus/vc_templates/vc_cta_button2.php:25
+msgid "Text on the button"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_gmaps.php:49
+msgid "View map"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_tab.php:10
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: src/octopus/vc_templates/vc_tabs.php:60
+msgid "Previous tab"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_tabs.php:60
+msgid "Next tab"
+msgstr ""
+
+#: src/octopus/vc_templates/vc_toggle.php:17
+msgid "Click to toggle"
+msgstr ""
+
+#: src/octopus/vc_templates/wpo_all_products.php:92
+msgid "Loading..."
+msgstr ""
+
+#: src/octopus/vc_templates/wpo_all_products.php:94
+msgid "Load More"
+msgstr ""
+
+#: src/octopus/vc_templates/wpo_categoriespost.php:32
+#: src/octopus/vc_templates/wpo_categorytabpost.php:32
+msgid "Please select category or more to show posts and the navigator"
+msgstr ""
+
+#: src/octopus/vc_templates/wpo_category_filter.php:75
+msgid "more"
+msgstr ""
+
+#: src/octopus/vc_templates/wpo_frontpageposts13.php:37
+msgid "Please select category(ies) to show posts with tab style"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:26
+#: src/octopus/woocommerce/cart/mini-cart.php:73
+msgid "Subtotal"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:48
+msgid "Shipping"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:80
+#: src/octopus/woocommerce/cart/cart.php:34
+msgid "Total"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:94
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart-totals.php:97
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:31
+msgid "Product"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:33
+msgid "Quantity"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:51
+#: src/octopus/woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:78
+msgid "Available on backorder"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:122
+msgid "Apply Coupon"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: src/octopus/woocommerce/cart/mini-cart-button-v3.php:10
+#: src/octopus/woocommerce/cart/mini-cart-button-v4.php:10
+#: src/octopus/woocommerce/cart/mini-cart-button.php:10
+msgid "Cart "
+msgstr ""
+
+#: src/octopus/woocommerce/cart/mini-cart-button-v3.php:11
+#: src/octopus/woocommerce/cart/mini-cart-button-v4.php:11
+#: src/octopus/woocommerce/cart/mini-cart-button.php:11
+#, php-format
+msgid " <span class=\"mini-cart-items\"> %d item </span> "
+msgstr ""
+
+#: src/octopus/woocommerce/cart/mini-cart.php:65
+msgid "No products in the cart."
+msgstr ""
+
+#: src/octopus/woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: src/octopus/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: src/octopus/woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: src/octopus/woocommerce/checkout/form-shipping.php:32
+msgid "Shipping Address"
+msgstr ""
+
+#: src/octopus/woocommerce/checkout/form-shipping.php:38
+msgid "Ship to a different address?"
+msgstr ""
+
+#: src/octopus/woocommerce/checkout/form-shipping.php:63
+#: src/octopus/woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: src/octopus/woocommerce/compare.php:72
+msgid "Close window [X]"
+msgstr ""
+
+#: src/octopus/woocommerce/compare.php:98
+msgid "No products added in the compare table."
+msgstr ""
+
+#: src/octopus/woocommerce/compare.php:106
+msgid "Remove"
+msgstr ""
+
+#: src/octopus/woocommerce/content-product-list.php:71
+msgid "Quick view"
+msgstr ""
+
+#: src/octopus/woocommerce/content-product-list.php:107
+msgid "add to compare"
+msgstr ""
+
+#: src/octopus/woocommerce/loop/sale-flash.php:16
+msgid "Sale"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:87
+msgid "Your Review"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product-reviews.php:96
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/product-attributes.php:30
+msgid "Weight"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/review.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/review.php:45
+msgid "verified owner"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: src/octopus/woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: src/octopus/woocommerce/skin/fashion/content-product-inner.php:82
+msgid "Quick View"
+msgstr ""
+
+#: src/octopus/woocommerce/skin/fashion/content-single-product.php:16
+msgid "Share this Product!"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-layered-nav-filters.php:66
+#: src/octopus/woocommerce/widgets/widget-layered-nav-filters.php:73
+#: src/octopus/woocommerce/widgets/widget-layered-nav-filters.php:78
+msgid "Remove filter"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-layered-nav-filters.php:73
+msgid "Min"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-layered-nav-filters.php:78
+msgid "Max"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-layered-nav.php:91
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-price-filter.php:143
+msgid "Min price"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-price-filter.php:144
+msgid "Max price"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-price-filter.php:145
+msgid "Filter"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-price-filter.php:147
+msgid "Price:"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-product-categories.php:139
+msgid "No product categories exist."
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-product-search.php:38
+msgid "Search for:"
+msgstr ""
+
+#: src/octopus/woocommerce/widgets/widget-product-search.php:40
+msgid "Search for products"
+msgstr ""
