@@ -23,151 +23,197 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
-    <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+    <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
     <?php wp_head(); ?>
+    <link rel="stylesheet" href="<?= get_stylesheet_directory_uri() ?>/css/allied.css"/>
+    <script>
+        var fix = {
+            init:function(){
+                jQuery(window).resize(function(){
+                    fix.setResize();
+                });
+                jQuery('#header-bottom-container button.menu-icon').click(
+                    function(){
+                        fix.menuClick();
+                    }
+                );
+                fix.resize();
+            },
+            isSmall: null,
+            large: function(){
+                jQuery('[data-hide-for="medium"]').css({
+                    display: 'none'
+                });
+                jQuery('#main-menu').css({
+                    display: 'block'
+                });
+            },
+            menuClick: function(){
+                if(fix.isSmall){
+                    jQuery('#main-menu').toggle();
+                }
+            },
+            resize: function(){
+                var w = window.innerWidth;
+                fix.isSmall = w <= 640;
+                fix.isSmall ? fix.small() : fix.large();
+            },
+            resizeTimeout: null,
+            RESIZE_TIMEOUT: 100,
+            setResize: function(){
+                clearTimeout(fix.resizeTimeout);
+                setTimeout(fix.resize, fix.RESIZE_TIMEOUT);
+            },
+            small:function(){
+                jQuery('[data-hide-for="medium"]').css({
+                    display: 'block'
+                });
+                jQuery('#main-menu').css({
+                    display: 'none'
+                });
+            }
+        };
+
+        (function($){
+            $(document).ready(function(){
+                fix.init();
+            });
+        })(jQuery);
+    </script>
+
 </head>
-	
 
-<body <?php body_class(); ?>>
-	<div id="st-container" class="st-container">
-		<div class="st-pusher">
-			<div class="st-menu st-effect-1">			
-				<?php if( NEWFASHION_WPO_WOOCOMMERCE_ACTIVED ) { ?>										
-					<?php if( newfashion_wpo_theme_options('woo-show-minicart', true) ) : ?>
-						<div class="cartwrapper">
-							<?php get_template_part( 'woocommerce/cart/mini-cart-button-v3' ); ?>       
-						</div>
-					<?php endif; ?>										  
-				<?php } ?>
-			</div>
-			
-			<div class="st-menu st-effect-2">		
-				<?php get_template_part('templates/mobile/offcanvas_menu');?>
-			</div>
-				
-			<section class="wpo-page row-offcanvas row-offcanvas-left"> 
-			<?php $meta_template = get_post_meta(get_the_ID(),'wpo_template',true); ?>
 
-			<!-- START Wrapper -->
-			<section class="wpo-wrapper <?php echo isset($meta_template['el_class']) ? esc_attr( $meta_template['el_class'] ) : '' ; ?>">
+<body class="cms-index-index cms-home">
+<div>
+    <div>
+        <!-- START Wrapper -->
+        <section>
 
-				<!-- HEADER -->
-				<header id="wpo-header" class="wpo-header header-v1">     
-				
-					<div class="st-menu st-search st-effect-3">
-						<div class="top-search d-table">
-							<div class="d-table-cell">		
-								<div class="container">			
-									<?php get_search_form(); ?>									
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					<div id="wpo-topbar" class="wpo-topbar">	
-						<div class="container">
-							<div class="row">
-								<div class="col-lg-7 col-md-6 col-sm-6 col-xs-12">								
-									<ul class="links pull-left nob-l">
-										<?php if( !is_user_logged_in() ){ ?>
-											<li><?php do_action('wpo-login-button'); ?></li>
-											<li><a href="<?php echo esc_url( get_permalink( get_option('woocommerce_myaccount_page_id') ) ); ?>" title="<?php echo __('Register','woothemes'); ?>"><?php echo __('Register','woothemes'); ?></a></li>
-										<?php }else{ ?>
-											<?php $current_user = wp_get_current_user(); ?>
-											<li><?php echo __('Welcome ','newfashion'); ?><?php echo trim($current_user->display_name); ?> !</li>
-											<li><a href="<?php echo wp_logout_url(); ?>"><?php echo __('Log Out', 'newfashion'); ?></a></li>
-										<?php } ?>
-									</ul>						
-								</div>
-								
-								<div class="col-lg-5 col-md-6 col-sm-6 col-xs-12">	
-									<ul class="links links-v1 pull-right  nob-l">		
-										
-										<?php if( class_exists( 'YITH_WCWL' ) ) { ?>
-										<?php
-											$wishlist_url = YITH_WCWL()->get_wishlist_url();
-										?>
-										<li class="i-wishlist">											
-											<?php echo get_option('chosen_select_nostd'); ?>
-											<a href="<?php echo esc_url( $wishlist_url ) ?>" title="wishlist">&nbsp;</a>
-										</li>
-										<?php }?>
-										
-										<?php if( NEWFASHION_WPO_WOOCOMMERCE_ACTIVED ) { ?>	
-											<?php if( newfashion_wpo_theme_options('woo-show-minicart', true) ) : ?>
-												<li class="i-cart cart-top">						
-													<div class="st-content">
-														<div class="st-trigger-effects cartwrapper">						
-															<button data-effect="st-effect-1">						
-																<?php get_template_part( 'woocommerce/cart/mini-cart-count' ); ?>  																
-															</button>					
-														</div>			
-													</div>							
-												</li>
-											<?php endif; ?>	
-										<?php } ?>	
-										
-										
-										<li class="i-search">
-											<div class="st-content">
-												<div class="st-trigger-effects">						
-													<button data-effect="st-effect-3">&nbsp;</button>					
-												</div>			
-											</div>	
-										</li>
-												
-										<li class="i-menu hidden-md hidden-lg">
-											<div class="st-content">
-												<div class="st-trigger-effects">						
-													<button data-effect="st-effect-2">&nbsp;</button>					
-												</div>			
-											</div>	
-										</li>
-										
-									</ul>
-								</div>				
-							</div>	
-						</div>			
-					</div>
-					
-					<div id="wpo-headMain" class="wpo-headMain space-padding-tb-30">
-						<div class="container">
-							<div class="logo-in-theme a-center">
-								<?php if( newfashion_wpo_theme_options('logo') ) { ?>						
-									<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-										<img src="<?php echo esc_url_raw( newfashion_wpo_theme_options('logo') ); ?>" alt="<?php bloginfo( 'name' ); ?>">
-									</a>						
-								<?php } else { ?>							
-									<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-										 <img src="<?php echo esc_url_raw( get_template_directory_uri() . '/images/logo.png' ); ?>" alt="<?php bloginfo( 'name' ); ?>" />
-									</a>							
-								<?php } ?>
-							</div>
-						</div>
-					</div>
-					
-					<div id="wpo-headBottom" class="wpo-headBottom">
-						<div class="container">				
-							<div class="mainmenu a-center">
-								<nav id="wpo-mainnav" data-style='light' data-duration="<?php echo newfashion_wpo_theme_options('megamenu-duration',400); ?>" class="wpo-megamenu <?php echo newfashion_wpo_theme_options('magemenu-animation','slide'); ?> animate navbar navbar-mega" role="navigation">
-				   
-									 <?php
-/* Removed "collapse" class from container_class */
-										$args = array(  'theme_location' => 'mainmenu',
-														'container_class' => 'navbar-collapse navbar-ex1-collapse no-padding',
-														'menu_class' => 'nav navbar-nav megamenu',
-														'fallback_cb' => '',
-														'menu_id' => 'main-menu',
-														'walker' => class_exists("Wpo_Megamenu") ? new Wpo_Megamenu() : new Wpo_bootstrap_navwalker );
-										wp_nav_menu($args);
-									?>
-								</nav>
-							</div>			   
-						</div>				
-					</div>    
-				</header>
-				<!-- //HEADER -->
+            <!-- HEADER -->
+            <div id="header">
+                <div id="header-top-container">
+                    <div class="row">
+                        <div class="medium-6 columns header-value-props text-center medium-text-left">
+                            <a href="https://www.shellybrown.com/shipping/">Free Same-Day Shipping Over $150</a>
+                            <a class="show-for-medium" href="https://www.shellybrown.com/returns/">Hassle-Free
+                                Returns</a>
+                            <a class="show-for-medium customer-service-link"
+                               href="https://www.shellybrown.com/contacts/">Customer Service</a>
+                        </div>
+                        <div class="medium-6 columns header-secondary-nav">
+                            <form id="search_mini_form" action="https://www.shellybrown.com/catalogsearch/result/"
+                                  method="get">
+                                <div class="form-search">
+                                    <input id="search" type="text" name="q" value="" class="input-text" maxlength="128"
+                                           placeholder="search...">
+                                    <button type="submit" title="Search" class="button"><i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </form>
+                            <a id="cart-widget" class="float-right" href="https://www.shellybrown.com/checkout/cart/">
+                                <img id="cart-icon"
+                                     src="https://www.shellybrown.com/skin/frontend/ally/shellybrown/img/cart-icon.png">
+                                <span id="cart-count">0</span>
+                            </a>
+                            <!-- LOG IN / LOG OUT LINKS -->
+                            <ul>
+                                <li><a class="wishlist-link" href="https://www.shellybrown.com/wishlist/">Wishlist</a>
+                                </li>
+                                <li><a href="https://www.shellybrown.com/customer/account/login/">Log In</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="header-main-container">
+                    <div class="row">
+                        <div class="show-for-medium medium-12 columns header-main-left-column logo-container">
+                            <div class="header-main-left">
+                                <div id="logo">
+                                    <a href="https://www.shellybrown.com/" title="Shelly Brown" class="logo">
+                                        <img src="https://www.shellybrown.com/skin/frontend/ally/shellybrown/img/logo.png"
+                                             alt="Shelly Brown">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center medium-text-right medium-6 columns header-main-right-column">
+                            <div class="header-main-right">
+                                <a id="cart-widget" class="float-right"
+                                   href="https://www.shellybrown.com/checkout/cart/">
+                                    <img id="cart-icon"
+                                         src="https://www.shellybrown.com/skin/frontend/ally/shellybrown/img/cart-icon.png">
+                                    <span id="cart-count">0</span>
+                                </a>
+
+                                <form id="search_mini_form" action="https://www.shellybrown.com/catalogsearch/result/"
+                                      method="get">
+                                    <div class="form-search">
+                                        <input id="search" type="text" name="q" value="" class="input-text"
+                                               maxlength="128" placeholder="search...">
+                                        <button type="submit" title="Search" class="button"><i class="fa fa-search"></i>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="header-bottom-container">
+                    <div class="row collapse">
+                        <div class="medium-12 columns">
+                            <div class="header-bottom">
+                                <div class="title-bar text-center row collapse" data-responsive-toggle="main-menu"
+                                     data-hide-for="medium" style="display: none;">
+                                    <div class="small-3 columns">
+                                        <button class="menu-icon float-left" type="button" data-toggle=""></button>
+                                    </div>
+                                    <div class="small-6 columns text-center">
+                                        <a href="/"><img class="logo-mobile"
+                                                         src="https://www.shellybrown.com/skin/frontend/ally/shellybrown/img/logo.png"></a>
+                                    </div>
+                                    <div class="small-3 columns">
+                                        <a id="cart-link" class="float-right"
+                                           href="https://www.shellybrown.com/checkout/cart/">
+                                            <img id="cart-icon"
+                                                 src="https://www.shellybrown.com/skin/frontend/ally/shellybrown/img/cart-icon-dark.png">
+                                            <span id="cart-count">0</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div id="main-menu" class="medium-12 columns">
+                                    <ul class="vertical medium-horizontal menu dropdown"
+                                        data-responsive-menu="accordion medium-dropdown" role="menubar"
+                                        data-dropdown-menu="shsyu9-dropdown-menu">
+                                        <li role="menuitem"><a href="https://www.shellybrown.com/bracelets.html"
+                                                               tabindex="0">Bracelets</a></li>
+                                        <li role="menuitem"><a
+                                                    href="https://www.shellybrown.com/earrings.html">Earrings</a></li>
+                                        <li role="menuitem"><a href="https://www.shellybrown.com/necklaces.html">Necklaces</a>
+                                        </li>
+                                        <li role="menuitem"><a href="https://www.shellybrown.com/rings.html">Rings</a>
+                                        </li>
+                                        <li role="menuitem"><a
+                                                    href="https://www.shellybrown.com/leather.html">Leather</a></li>
+                                        <li role="menuitem"><a href="https://www.shellybrown.com/people">People</a></li>
+                                        <li class="show-for-small-only" role="menuitem"><a
+                                                    href="https://www.shellybrown.com/customer/account/login/">Log In /
+                                                Create Account</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="checkout-progress-details">
+                        <div class="row">
+                            <div class="medium-12 columns">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- //HEADER -->
 		

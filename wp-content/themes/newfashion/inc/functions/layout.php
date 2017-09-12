@@ -54,7 +54,7 @@
 		}
 		?>
 	    <div class="wpo-breadcrumbs" style="<?php echo ($style);?>">
-	        <?php newfashion_breadcrumb(); ?>
+	        <?php //newfashion_breadcrumb(); ?>
 	    </div>
  	<?php 
 	}
@@ -71,9 +71,9 @@
 	  		<div class="container<?php if( isset($newfashion_config['layout'])&&$newfashion_config['layout']=='fullwidth') { ?>-fuild<?php } ?>">
 	      	<div class="container-inner">
 	        		<div class="row">
-	          		<?php get_sidebar( 'left' );  ?>
+	          		<?php //get_sidebar( 'left' );  ?>
 			        <!-- MAIN CONTENT -->
-			        <div id="wpo-content" class="<?php echo esc_attr( $newfashion_config['main']['class'] ); ?>">
+			        <div id="wpo-content" class="<?php echo esc_attr( $newfashion_config['main']['class'] ); ?> small-12 columns">
 			            <div class="wpo-content">
 
 	<?php }  
@@ -89,7 +89,7 @@
 				         	</div>
 			            </div>
 			          <!-- //MAIN CONTENT -->
-			          <?php get_sidebar( 'right' );  ?>
+			          <?php //get_sidebar( 'right' );  ?>
 			         </div>
 			   </div>
 		   </div>

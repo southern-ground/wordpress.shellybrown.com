@@ -85,23 +85,25 @@ function newfashion_load_base_frontend_cssjs(){
 	}
 	wp_enqueue_script("jquery");
 	/*  add scripts files  */
-	wp_enqueue_script('newfashion-base_bootstrap_js',NEWFASHION_WPO_THEME_URI.'/js/bootstrap.min.js');
-	wp_enqueue_style( 'theme-style', get_stylesheet_uri() );
+
+	// wp_enqueue_script('newfashion-base_bootstrap_js',NEWFASHION_WPO_THEME_URI.'/js/bootstrap.min.js');
+
+    wp_enqueue_style( 'theme-style', get_stylesheet_uri() );
 	 
 
 	$currentSkin = str_replace( '.css','',newfashion_wpo_theme_options('skin','default') );
 	// Check RTL
 	if( is_rtl() ){
 		if( file_exists(NEWFASHION_WPO_THEME_CSS_DIR.'skins/'.$currentSkin.'/bootstrap-rtl.css') ){
-			wp_enqueue_style( 'newfashion-bootstrap-rtl-'.$currentSkin, NEWFASHION_WPO_THEME_URI.'/css/skins/'.$currentSkin.'/bootstrap-rtl.css' );
+			// wp_enqueue_style( 'newfashion-bootstrap-rtl-'.$currentSkin, NEWFASHION_WPO_THEME_URI.'/css/skins/'.$currentSkin.'/bootstrap-rtl.css' );
 		}else {
-			wp_enqueue_style( 'newfashion-bootstrap-rtl-default',NEWFASHION_WPO_THEME_URI.'/css/bootstrap-rtl.css' );
+			// wp_enqueue_style( 'newfashion-bootstrap-rtl-default',NEWFASHION_WPO_THEME_URI.'/css/bootstrap-rtl.css' );
 		}
 	}else{
 		if( file_exists(NEWFASHION_WPO_THEME_CSS_DIR.'skins/'.$currentSkin.'/bootstrap.css') ){
-			wp_enqueue_style( 'newfashion-bootstrap-'.$currentSkin, NEWFASHION_WPO_THEME_URI.'/css/skins/'.$currentSkin.'/bootstrap.css' );
+			// wp_enqueue_style( 'newfashion-bootstrap-'.$currentSkin, NEWFASHION_WPO_THEME_URI.'/css/skins/'.$currentSkin.'/bootstrap.css' );
 		}else {
-			wp_enqueue_style( 'newfashion-bootstrap-default', NEWFASHION_WPO_THEME_URI.'/css/bootstrap.css' );
+			// wp_enqueue_style( 'newfashion-bootstrap-default', NEWFASHION_WPO_THEME_URI.'/css/bootstrap.css' );
 		}
 	}
 
