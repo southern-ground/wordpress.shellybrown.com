@@ -47,6 +47,7 @@ if( !empty($wp_query)){
 }else
     get_template_part( 'templates/elements/none' );
 ?>
+<!-- Contents-Post -->
 <?php if ( have_posts() ) : ?>
 <div class="post-area row <?php echo ($style=='masonry')? 'blog-masonry isotope-masonry': ''; ?> posts-<?php echo ($style) ? esc_attr($style) : 'default' ?>">
 <?php while ( have_posts() ) : the_post(); ?>

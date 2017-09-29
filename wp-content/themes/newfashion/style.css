@@ -1437,3 +1437,7 @@ h2.sign_up, h2.social_header{
 h2.social_header{
     color: white;
 }
+
+.pagination .current{
+	background-color: transparent !important;
+}

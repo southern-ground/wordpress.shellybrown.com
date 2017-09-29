@@ -53,9 +53,11 @@
 			$style="background: url('".get_template_directory_uri()."/images/bg-cart.jpg') no-repeat center center #f9f9f9";
 		}
 		?>
+	    <!--
 	    <div class="wpo-breadcrumbs" style="<?php echo ($style);?>">
 	        <?php //newfashion_breadcrumb(); ?>
 	    </div>
+	    -->
  	<?php 
 	}
 

@@ -311,14 +311,6 @@
 input:-moz-placeholder {
   color: #d1d1d1; }
 
-::-moz-selection {
-  color: #fff;
-  background: #8BC44A; }
-
-::selection {
-  color: #fff;
-  background: #8BC44A; }
-
 iframe {
   border: none; }
 

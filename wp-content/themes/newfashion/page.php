@@ -19,8 +19,12 @@ $newfashion_config = $newfashionEngine->getPageConfig();
   get_header( $newfashionEngine->getHeaderLayout() );
 
 ?>
+<!-- Single Page -->
 <?php if( isset( $newfashion_config['breadcrumb']) && !$newfashion_config['breadcrumb']): ?>
 <?php do_action( 'newfashion_wpo_layout_breadcrumbs_render' ); ?>
+
+<!-- Insert page title HERE -->
+
 <?php endif; ?>
   
   <?php do_action( 'newfashion_wpo_layout_template_before' ) ; ?>

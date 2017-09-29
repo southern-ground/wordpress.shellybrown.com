@@ -38,6 +38,7 @@ $newfashion_config = $newfashionEngine->getPostConfig();
                     <div class="post-container">
 
                         <div class="entry-content">
+                            <h1><?=get_the_title()?></h1>
                             <?php
                                 the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'newfashion' ) );
                                 wp_link_pages( array(

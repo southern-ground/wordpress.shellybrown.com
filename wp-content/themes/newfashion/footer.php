@@ -124,11 +124,5 @@
 <script src="https://api.cartstack.com/js/cs.js"></script>
 <script src="https://api.cartstack.com/js/cartstack_utility.js"></script>
 
-<script type="text/javascript">
-    var _cartstack = _cartstack || [];
-    _cartstack.push(['setSiteID', 'k5BaYlpK']); /* required */
-    _cartstack.push(['setAPI', 'capture']); /* required */
-</script>
-
 </body>
 </html>
